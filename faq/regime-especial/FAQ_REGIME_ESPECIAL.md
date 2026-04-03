@@ -1,4 +1,23 @@
-# FAQ - Regime Especial para Estudantes de Graduacao da UFMS
+---
+title: FAQ - Regime Especial para Estudantes de Graduacao da UFMS
+aliases:
+  - FAQ Regime Especial
+  - Regime Especial UFMS
+tags:
+  - faq/regime-especial
+  - processo/requerimento-academico
+  - publico/estudante
+  - publico/coordenacao
+  - publico/secretaria
+tipo_documento: faq-operacional
+tema: regime especial na graduacao
+base_normativa_principal:
+  - IN PROGRAD 59/2022
+  - Resolucao COGRAD 430/2021
+ultima_revisao: 2026-04-03
+---
+
+## FAQ - Regime Especial para Estudantes de Graduacao da UFMS
 
 ## Objetivo
 
