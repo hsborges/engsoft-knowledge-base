@@ -1,5 +1,5 @@
 ---
-title: FAQ - Abono de Faltas na Graduação da UFMS
+title: Abono de Faltas na Graduação da UFMS
 aliases:
   - FAQ Abono de Faltas
   - Abono de Faltas UFMS
@@ -19,7 +19,7 @@ base_normativa_principal:
 ultima_revisao: 2026-04-03
 ---
 
-## FAQ - Abono de Faltas na Graduação da UFMS
+# Abono de Faltas na Graduação da UFMS
 
 ## Objetivo
 

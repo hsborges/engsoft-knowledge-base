@@ -1,4 +1,4 @@
-# Analise Previa para FAQ - [TEMA]
+# Analise Previa - [TEMA]
 
 ## 1) Escopo
 

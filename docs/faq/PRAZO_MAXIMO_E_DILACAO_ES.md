@@ -1,5 +1,5 @@
 ---
-title: FAQ - Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
+title: Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
 aliases:
   - FAQ Prazo Máximo ES
   - FAQ Dilação de Prazo ES
@@ -20,7 +20,7 @@ base_normativa_principal:
 ultima_revisao: 2026-04-04
 ---
 
-## FAQ - Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
+# Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
 
 ## Objetivo
 

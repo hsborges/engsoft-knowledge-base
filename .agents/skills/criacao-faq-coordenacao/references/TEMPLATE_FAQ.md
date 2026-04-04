@@ -1,4 +1,6 @@
-# FAQ - [TITULO]
+# [TITULO]
+
+> Titulo principal do FAQ em H1.
 
 ## Objetivo
 

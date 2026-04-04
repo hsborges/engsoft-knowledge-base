@@ -1,5 +1,5 @@
 ---
-title: FAQ - Regime Especial para Estudantes de Graduação da UFMS
+title: Regime Especial para Estudantes de Graduação da UFMS
 aliases:
   - FAQ Regime Especial
   - Regime Especial UFMS
@@ -17,7 +17,7 @@ base_normativa_principal:
 ultima_revisao: 2026-04-03
 ---
 
-## FAQ - Regime Especial para Estudantes de Graduação da UFMS
+# Regime Especial para Estudantes de Graduação da UFMS
 
 ## Objetivo
 

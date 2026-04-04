@@ -122,7 +122,7 @@ Ao salvar entregáveis finais, usar sempre [`docs/faq/`](../../../docs/faq/).
 
 Padrão recomendado de nome:
 
-- [`docs/faq/FAQ_<TEMA>.md`](../../../docs/faq/)
+- [`docs/faq/<TEMA>.md`](../../../docs/faq/)
 
 Não gerar arquivo separado de análise (`ANALISE_<TEMA>.md`). A análise prévia deve aparecer apenas no corpo da resposta, antes do FAQ final.
 
@@ -142,6 +142,7 @@ Se a FAQ mudar de nome, tema ou escopo, refletir imediatamente essa alteração 
 
 - Perguntas em linguagem natural (como o usuário realmente pergunta).
 - Respostas entre 3 e 8 linhas, objetivas.
+- No corpo do FAQ, usar título principal em H1 (`# Título`), não H2.
 - Redigir todo o conteúdo final em **português (Brasil)**.
 - Aplicar acentuação e ortografia corretamente antes de entregar (incluindo títulos, perguntas, respostas, frontmatter e checklist).
 - Destaque prazos em **negrito**.

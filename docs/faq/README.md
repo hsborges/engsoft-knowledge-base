@@ -26,7 +26,7 @@ Antes de responder um caso concreto, localize o tema no indice e confira a base 
 ## Convenção de organização
 
 - Salvar os arquivos de FAQ diretamente em `docs/faq/` (sem subpastas por tema).
-- Nomear os arquivos no padrão `FAQ_<TEMA>.md`.
+- Nomear os arquivos no padrão `<TEMA>.md`.
 - Manter frontmatter com `tipo_documento`, `tema`,
   `base_normativa_principal` e `ultima_revisao`.
 - Atualizar este índice sempre que um novo FAQ for criado ou renomeado.
@@ -35,9 +35,9 @@ Antes de responder um caso concreto, localize o tema no indice e confira a base 
 
 | tema | público-alvo | base normativa principal | arquivo |
 | --- | --- | --- | --- |
-| abono de faltas | estudante, coordenação, secretaria, docente | IN PROGRAD 71/2023; IN PROGRAD 59/2022; IN PROGRAD 72/2023 | [FAQ Abono de Faltas](./FAQ_ABONO_DE_FALTAS.md) |
-| prazo máximo e dilação em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 430/2021; IN PROGRAD 73/2023 | [FAQ Prazo Máximo e Dilação em ES](./FAQ_PRAZO_MAXIMO_E_DILACAO_ES.md) |
-| regime especial | estudante, coordenação, secretaria, docente | IN PROGRAD 59/2022; Resolução COGRAD 430/2021 | [FAQ Regime Especial](./FAQ_REGIME_ESPECIAL.md) |
+| abono de faltas | estudante, coordenação, secretaria, docente | IN PROGRAD 71/2023; IN PROGRAD 59/2022; IN PROGRAD 72/2023 | [Abono de Faltas](./ABONO_DE_FALTAS.md) |
+| prazo máximo e dilação em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 430/2021; IN PROGRAD 73/2023 | [Prazo Máximo e Dilação em ES](./PRAZO_MAXIMO_E_DILACAO_ES.md) |
+| regime especial | estudante, coordenação, secretaria, docente | IN PROGRAD 59/2022; Resolução COGRAD 430/2021 | [Regime Especial](./REGIME_ESPECIAL.md) |
 
 ## Tags sugeridas para indexação
 
