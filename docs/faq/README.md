@@ -9,7 +9,7 @@ tags:
   - atendimento
 tipo_documento: indice-faq
 escopo: perguntas frequentes operacionais para coordenação e secretaria
-ultima_revisao: 2026-04-03
+ultima_revisao: 2026-04-04
 ---
 
 ## FAQ
@@ -36,11 +36,15 @@ Cada FAQ prioriza resposta operacional, base normativa e rastreabilidade.
 | tema | público-alvo | base normativa principal | arquivo |
 | --- | --- | --- | --- |
 | abono de faltas | estudante, coordenação, secretaria, docente | IN PROGRAD 71/2023; IN PROGRAD 59/2022; IN PROGRAD 72/2023 | [FAQ Abono de Faltas](./FAQ_ABONO_DE_FALTAS.md) |
+| prazo máximo e dilação em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 430/2021; IN PROGRAD 73/2023 | [FAQ Prazo Máximo e Dilação em ES](./FAQ_PRAZO_MAXIMO_E_DILACAO_ES.md) |
 | regime especial | estudante, coordenação, secretaria, docente | IN PROGRAD 59/2022; Resolução COGRAD 430/2021 | [FAQ Regime Especial](./FAQ_REGIME_ESPECIAL.md) |
 
 ## Tags sugeridas para indexação
 
 - `faq/abono-de-faltas`
+- `faq/dilacao-de-prazo`
+- `faq/prazo-maximo`
+- `curso/engenharia-de-software`
 - `faq/regime-especial`
 - `processo/requerimento-academico`
 - `processo/revisao-de-frequencia`
