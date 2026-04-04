@@ -1,165 +1,189 @@
 ---
 name: criacao-faq-coordenacao
-description: Cria e revisa FAQs institucionais para coordenacao de curso com analise criteriosa, rastreabilidade e foco operacional. Use esta skill sempre que o usuario pedir FAQ, perguntas frequentes, guia de atendimento, respostas padrao de secretaria/coordenacao, ou transformar normas/procedimentos em linguagem clara e acionavel.
+description: Cria e revisa FAQs institucionais para coordenação de curso com análise criteriosa, rastreabilidade e foco operacional. Use esta skill sempre que o usuário pedir FAQ, perguntas frequentes, guia de atendimento, respostas padrão de secretaria/coordenação, ou transformar normas/procedimentos em linguagem clara e acionável.
 ---
 
-# Skill: Criacao de FAQ para Coordenacao de Curso
+# Skill: Criação de FAQ para Coordenação de Curso
 
-Esta skill estrutura a elaboracao de FAQs com profundidade analitica, evitando respostas superficiais e sem base documental.
+Esta skill estrutura a elaboração de FAQs com profundidade analítica, evitando respostas superficiais e sem base documental.
 
 ## Objetivo da skill
 
 Produzir FAQs que sejam:
-- **claras** para o publico final;
-- **corretas** em relacao a norma/procedimento;
-- **acionaveis** para atendimento;
-- **rastreaveis** (com links de arquivo clicaveis);
-- **reutilizaveis** entre coordenacao, secretaria e docentes.
+- **claras** para o público final;
+- **corretas** em relação à norma/procedimento;
+- **acionáveis** para atendimento;
+- **rastreáveis** (com links de arquivo clicáveis);
+- **reutilizáveis** entre coordenação, secretaria e docentes.
 
 ## Quando usar
 
 Use quando houver pedido de:
-- criacao de FAQ do zero;
-- revisao/atualizacao de FAQ existente;
-- padronizacao de respostas frequentes da coordenacao;
-- conversao de norma em orientacao para estudante.
+- criação de FAQ do zero;
+- revisão/atualização de FAQ existente;
+- padronização de respostas frequentes da coordenação;
+- conversão de norma em orientação para estudante.
 
-Nao use para responder consulta normativa sem verificar os atos. Se houver duvida sobre artigo, prazo, competencia, vigencia, alteracao/revogacao ou conflito entre normas, carregue a skill [`ufms-legislacao`](../ufms-legislacao/SKILL.md) e siga seu fluxo.
+Não use para responder consulta normativa sem verificar os atos. Se houver dúvida sobre artigo, prazo, competência, vigência, alteração/revogação ou conflito entre normas, carregue a skill [`ufms-legislacao`](../ufms-legislacao/SKILL.md) e siga seu fluxo.
 
-## Profundidade minima obrigatoria (analise criteriosa)
+## Profundidade mínima obrigatória (análise criteriosa)
 
 Antes de redigir o FAQ final, execute estas 7 etapas:
 
 1. **Definir escopo da demanda**
-   - Tema central e limites (ex.: regime especial na graduacao, nao pos-graduacao).
-   - Periodo de interesse (importante para vigencia).
+   - Tema central e limites (ex.: regime especial na graduação, não pós-graduação).
+   - Período de interesse (importante para vigência).
 
-2. **Mapear publico e decisores**
+2. **Mapear público e decisores**
    - Quem pergunta (estudante, docente, secretaria).
-   - Quem analisa/decide (coordenacao, colegiado, pro-reitoria).
+   - Quem analisa/decide (coordenação, colegiado, pró-reitoria).
 
 3. **Levantamento de fontes**
-   - Ler indice e README(s) relevantes antes dos atos completos.
+   - Ler índice e README(s) relevantes antes dos atos completos.
    - Selecionar normas principais e, se houver, atos alteradores.
 
-4. **Validar vigencia e cadeia de alteracoes**
-   - Confirmar se o ato esta vigente.
-   - Confirmar alteracoes, retificacoes, revogacoes e consolidacoes.
-   - Declarar limite quando nao for possivel comprovar cadeia completa.
+4. **Validar vigência e cadeia de alterações**
+   - Confirmar se o ato está vigente.
+   - Confirmar alterações, retificações, revogações e consolidações.
+   - Declarar limite quando não for possível comprovar cadeia completa.
 
 5. **Extrair regras operacionais**
    - Elegibilidade (quem pode solicitar).
-   - Condicoes de aplicacao.
+   - Condições de aplicação.
    - Prazos e marcos de contagem.
-   - Documentos obrigatorios.
-   - Fluxo de tramitacao (protocolo -> analise -> decisao -> comunicacao).
-   - Consequencias de deferimento e indeferimento.
+   - Documentos obrigatórios.
+   - Fluxo de tramitação (protocolo -> análise -> decisão -> comunicação).
+   - Consequências de deferimento e indeferimento.
 
-6. **Identificar pontos de risco de interpretacao**
+6. **Identificar pontos de risco de interpretação**
    - Termos ambíguos.
-   - Excecoes e casos limítrofes.
-   - Dependencia de norma externa nao presente no acervo.
+   - Exceções e casos limítrofes.
+   - Dependência de norma externa não presente no acervo.
 
-7. **So entao redigir o FAQ final**
-   - Linguagem simples, sem perder exatidao normativa.
-   - Cada resposta deve orientar o proximo passo pratico.
+7. **Só então redigir o FAQ final**
+   - Linguagem simples, sem perder exatidão normativa.
+   - Cada resposta deve orientar o próximo passo prático.
 
-## Matriz obrigatoria de rastreabilidade (pergunta -> dispositivo)
+## Matriz obrigatória de rastreabilidade (pergunta -> dispositivo)
 
 Antes de finalizar, monte obrigatoriamente uma matriz com:
 - Pergunta da FAQ;
 - Regra sintetizada em 1 frase;
-- Dispositivo de base (ato + artigo/paragrafo/inciso);
+- Dispositivo de base (ato + artigo/parágrafo/inciso);
 - Trecho-chave da norma (1-2 linhas, quando houver).
 
-Sem essa matriz, a FAQ nao deve ser considerada pronta.
+Sem essa matriz, a FAQ não deve ser considerada pronta.
 
-## Criterios de completude minima (Gate de qualidade)
+## Critérios de completude mínima (Gate de qualidade)
 
 Considere a FAQ **aprovada** somente quando atingir todos os itens abaixo:
 
-1. **Cobertura funcional**: responde quem pode solicitar, condicoes, prazo, documentos, protocolo, analise/decisao e indeferimento.
+1. **Cobertura funcional**: responde quem pode solicitar, condições, prazo, documentos, protocolo, análise/decisão e indeferimento.
 2. **Rastreabilidade**: toda resposta normativa aponta base documental.
-3. **Acionabilidade**: cada resposta deixa explicito o proximo passo do leitor.
-4. **Temporalidade**: vigencia e recorte temporal foram verificados (quando aplicavel).
-5. **Clareza**: sem jargao desnecessario e sem ambiguidade relevante.
+3. **Acionabilidade**: cada resposta deixa explícito o próximo passo do leitor.
+4. **Temporalidade**: vigência e recorte temporal foram verificados (quando aplicável).
+5. **Clareza**: sem jargão desnecessário e sem ambiguidade relevante.
 
 Se qualquer item falhar, revisar antes de entregar.
 
-## Estrutura de saida obrigatoria
+## Estrutura de saída obrigatória
 
 Entregue nesta ordem:
 
-1. **Analise previa resumida**
+1. **Análise prévia resumida**
    - Escopo
-   - Publico-alvo
-   - Matriz de regras (quem/prazo/documentos/decisao)
+   - Público-alvo
+   - Matriz de regras (quem/prazo/documentos/decisão)
    - Matriz de rastreabilidade (pergunta -> dispositivo)
    - Riscos e limites
 
 2. **FAQ final (Markdown)**
    - Use [`references/TEMPLATE_FAQ.md`](references/TEMPLATE_FAQ.md)
 
-3. **Observacoes de aplicacao**
-   - O que a coordenacao pode customizar localmente (contatos, canais, formulários).
+3. **Observações de aplicação**
+   - O que a coordenação pode customizar localmente (contatos, canais, formulários).
 
-4. **Referencias de base**
-   - Links clicaveis (Markdown) dos arquivos usados.
-   - Referencie diretamente os documentos normativos aplicados (ex.: PDFs), sem incluir `README.md` na lista final de referencias.
-   - Para PDFs, use o **titulo do PDF** como texto do link (ex.: `[RESOLUCAO (COGRAD) n 430_ de 16-12-2021.](caminho/arquivo.pdf)`).
-   - Para arquivos nao-PDF que forem indispensaveis, use o nome do arquivo como texto do link.
+4. **Referências de base**
+   - Links clicáveis (Markdown) dos arquivos usados.
+   - Referencie diretamente os documentos normativos aplicados (ex.: PDFs), sem incluir `README.md` na lista final de referências.
+- Para PDFs, use o **título do PDF** como texto do link (ex.: `[RESOLUÇÃO (COGRAD) n 430_ de 16-12-2021.](caminho/arquivo.pdf)`).
+   - Para arquivos não-PDF que forem indispensáveis, use o nome do arquivo como texto do link.
 
 5. **Limites**
-   - Lacunas documentais, necessidade de fonte externa, conflitos nao resolvidos.
+   - Lacunas documentais, necessidade de fonte externa, conflitos não resolvidos.
 
 ## Destino dos arquivos gerados
 
-Ao salvar entregaveis finais, usar sempre [`faq/<tema>/`](../../../faq/).
+Ao salvar entregáveis finais, usar sempre [`faq/`](../../../faq/).
 
-Padrao recomendado de nome:
-- [`faq/<tema>/FAQ_<TEMA>.md`](../../../faq/)
-- [`faq/<tema>/ANALISE_<TEMA>.md`](../../../faq/) (quando a analise for separada)
+Padrão recomendado de nome:
+- [`faq/FAQ_<TEMA>.md`](../../../faq/)
 
-## Regras de redacao
+Não gerar arquivo separado de análise (`ANALISE_<TEMA>.md`). A análise prévia deve aparecer apenas no corpo da resposta, antes do FAQ final.
 
-- Perguntas em linguagem natural (como o usuario realmente pergunta).
+## Atualização obrigatória do índice de FAQs
+
+Sempre que criar, renomear ou remover uma FAQ em [`faq/`](../../../faq/), atualizar na mesma entrega o arquivo [`faq/README.md`](../../../faq/README.md).
+
+Atualizações mínimas obrigatórias no índice:
+- tabela **FAQs por tema**;
+- campo `ultima_revisao`;
+- seção **Tags sugeridas para indexação**, quando o novo tema introduzir tag nova ou tornar alguma tag obsoleta.
+
+Se a FAQ mudar de nome, tema ou escopo, refletir imediatamente essa alteração no índice para evitar links quebrados e inconsistências de catalogação.
+
+## Regras de redação
+
+- Perguntas em linguagem natural (como o usuário realmente pergunta).
 - Respostas entre 3 e 8 linhas, objetivas.
+- Redigir todo o conteúdo final em **português (Brasil)**.
+- Aplicar acentuação e ortografia corretamente antes de entregar (incluindo títulos, perguntas, respostas, frontmatter e checklist).
 - Destaque prazos em **negrito**.
-- Liste documentos e passos em bullets quando aplicavel.
-- Use condicional explicita: "Se X, entao Y".
-- Evite frases vagas como "procure o setor responsavel" sem indicar proximo passo.
-- Inclua, sempre que possivel, a linha **Base:** ao final de cada resposta normativa.
-- Quando houver dispositivo normativo, prefira citar artigo/paragrafo/inciso de forma completa.
+- Liste documentos e passos em bullets quando aplicável.
+- Use condicional explícita: "Se X, então Y".
+- Evite frases vagas como "procure o setor responsável" sem indicar próximo passo.
+- Inclua, sempre que possível, a linha **Base:** ao final de cada resposta normativa.
+- Quando houver dispositivo normativo, prefira citar artigo/parágrafo/inciso de forma completa.
+
+## Revisão editorial obrigatória
+
+Antes da entrega final, fazer uma passada de revisão editorial para garantir:
+- consistência de idioma (sem trechos em inglês ou mistura indevida de idiomas);
+- acentuação correta (ex.: "coordenacao" -> "coordenação", "analise" -> "análise");
+- concordância nominal e verbal;
+- pontuação e clareza frasal.
 
 ## Checklist de qualidade antes de finalizar
 
-- [ ] A conclusao de cada resposta bate com a fonte?
-- [ ] Prazo, marco de contagem e excecoes estao claros?
+- [ ] A conclusão de cada resposta bate com a fonte?
+- [ ] Prazo, marco de contagem e exceções estão claros?
 - [ ] O leitor sabe exatamente o que fazer agora?
-- [ ] Linguagem sem jargao desnecessario?
-- [ ] Referencias com links clicaveis foram listadas, usando o titulo do PDF como texto do link quando aplicavel e sem `README.md`?
+- [ ] Linguagem sem jargão desnecessário?
+- [ ] O texto final está integralmente em português e com acentuação correta?
+- [ ] Referências com links clicáveis foram listadas, usando o título do PDF como texto do link quando aplicável e sem `README.md`?
 - [ ] Limites e incertezas foram explicitados?
-- [ ] A matriz pergunta->dispositivo foi preenchida?
-- [ ] A FAQ passou no Gate de completude minima?
+- [ ] A matriz pergunta -> dispositivo foi preenchida?
+- [ ] A FAQ passou no Gate de completude mínima?
+- [ ] O `faq/README.md` foi atualizado quando houve inclusão, renomeação ou remoção de FAQ?
 
-## Iteracao curta obrigatoria (teste -> ajuste -> reteste)
+## Iteração curta obrigatória (teste -> ajuste -> reteste)
 
-Quando esta skill for criada/atualizada, execute um ciclo minimo:
+Quando esta skill for criada/atualizada, execute um ciclo mínimo:
 
-1. **Teste inicial** com 2-3 prompts realistas de coordenacao.
-2. **Diagnostico**: registrar falhas por criterio (cobertura, rastreabilidade, acionabilidade, clareza).
+1. **Teste inicial** com 2-3 prompts realistas de coordenação.
+2. **Diagnóstico**: registrar falhas por critério (cobertura, rastreabilidade, acionabilidade, clareza).
 3. **Ajuste da skill/templates** para corrigir as falhas.
 4. **Reteste** com os mesmos prompts e comparar melhoria.
 
 Formato de registro sugerido:
-- Iteracao 1 (baseline): pontos fortes, falhas, decisoes de ajuste.
-- Iteracao 2 (apos ajuste): o que melhorou, o que falta.
+- Iteração 1 (baseline): pontos fortes, falhas, decisões de ajuste.
+- Iteração 2 (após ajuste): o que melhorou, o que falta.
 
-So considerar a skill pronta quando a iteracao 2 atender integralmente o Gate de completude minima.
+Só considerar a skill pronta quando a iteração 2 atender integralmente o Gate de completude mínima.
 
-## Organizacao de arquivos
+## Organização de arquivos
 
-- **Documentos FAQ gerados para uso institucional**: salvar em [`faq/`](../../../faq/) (nao misturar com arquivos da skill).
+- **Documentos FAQ gerados para uso institucional**: salvar em [`faq/`](../../../faq/) (não misturar com arquivos da skill).
 
 ## Recursos da skill
 

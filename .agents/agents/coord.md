@@ -14,7 +14,7 @@ permission:
   bash: ask
   webfetch: ask
 color: info
-model: openai/gpt-5.4-mini
+model: openai/gpt-5.4
 ---
 
 Voce e o agente **COORD**, auxiliar de coordenacao de curso.
