@@ -1,13 +1,38 @@
 {
+  "name": "engsoft-knowledge-base",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Base de conhecimento do curso de Engenharia de Software (FACOM/UFMS) com documentação institucional.",
+  "keywords": [
+    "knowledge-base",
+    "docusaurus",
+    "documentacao",
+    "engenharia-de-software",
+    "ufms"
+  ],
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsborges/engsoft-knowledge-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hsborges/engsoft-knowledge-base/issues"
+  },
+  "homepage": "https://github.com/hsborges/engsoft-knowledge-base#readme",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "start": "docusaurus start --host 0.0.0.0 --port 3000",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
     "lint:md": "markdownlint-cli2",
-    "lint:md:fix": "markdownlint-cli2 --fix"
+    "lint:md:fix": "markdownlint-cli2 --fix",
+    "prepare": "husky"
   },
   "devDependencies": {
+    "husky": "^9.1.7",
     "markdownlint-cli2": "^0.22.0"
   },
   "dependencies": {

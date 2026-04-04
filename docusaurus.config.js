@@ -1,7 +1,7 @@
 // @ts-check
 
 const config = {
-  title: "UFMS Knowledge Base",
+  title: "Engsoft Knowledge Base",
   tagline: "Documentacao institucional organizada",
 
   url: "https://hsborges.github.io",

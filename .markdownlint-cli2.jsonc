@@ -3,7 +3,8 @@
     "**/*.md"
   ],
   "config": {
-    "MD013": false
+    "MD013": false,
+    "MD041": false
   },
   "ignores": [
     "node_modules/**",
