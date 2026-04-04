@@ -1,5 +1,5 @@
 ---
-title: Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
+title: Prazo Máximo e Dilação
 aliases:
   - FAQ Prazo Máximo ES
   - FAQ Dilação de Prazo ES

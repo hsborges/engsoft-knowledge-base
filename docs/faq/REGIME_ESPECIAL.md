@@ -1,5 +1,5 @@
 ---
-title: Regime Especial para Estudantes de Graduação da UFMS
+title: Regime Especial
 aliases:
   - FAQ Regime Especial
   - Regime Especial UFMS

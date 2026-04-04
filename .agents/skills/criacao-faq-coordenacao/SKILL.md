@@ -141,6 +141,8 @@ Se a FAQ mudar de nome, tema ou escopo, refletir imediatamente essa alteração 
 - Perguntas em linguagem natural (como o usuário realmente pergunta).
 - Respostas entre 3 e 8 linhas, objetivas.
 - Quando houver frontmatter com `title`, não repetir o título no corpo do FAQ.
+- O `title` do frontmatter deve ser curto e escaneável (preferência: 2 a 5 palavras).
+- Evitar contexto redundante no `title` (ex.: "na graduação", "da UFMS", nome completo do curso) quando esse contexto já estiver em `tema` e `Objetivo`.
 - Redigir todo o conteúdo final em **português (Brasil)**.
 - Aplicar acentuação e ortografia corretamente antes de entregar (incluindo títulos, perguntas, respostas, frontmatter e checklist).
 - Destaque prazos em **negrito**.
@@ -171,6 +173,7 @@ Antes da entrega final, fazer uma passada de revisão editorial para garantir:
 - [ ] A matriz pergunta -> dispositivo foi preenchida?
 - [ ] A FAQ passou no Gate de completude mínima?
 - [ ] O `docs/faq/README.md` foi atualizado quando houve inclusão, renomeação ou remoção de FAQ?
+- [ ] O `title` está curto, claro e sem redundância de contexto?
 
 ## Iteração curta obrigatória (teste -> ajuste -> reteste)
 

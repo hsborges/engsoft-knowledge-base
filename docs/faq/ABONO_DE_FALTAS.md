@@ -1,5 +1,5 @@
 ---
-title: Abono de Faltas na Graduação da UFMS
+title: Abono de Faltas
 aliases:
   - FAQ Abono de Faltas
   - Abono de Faltas UFMS
