@@ -1,0 +1,12 @@
+:root {
+  --ifm-color-primary: #006747;
+  --ifm-color-primary-dark: #005d40;
+  --ifm-color-primary-darker: #00583c;
+  --ifm-color-primary-darkest: #004931;
+  --ifm-color-primary-light: #00714e;
+  --ifm-color-primary-lighter: #007652;
+  --ifm-color-primary-lightest: #00855d;
+  --ifm-background-color: #f8faf8;
+  --ifm-font-family-base: "Source Sans 3", "Noto Sans", sans-serif;
+  --ifm-heading-font-family: "Merriweather", serif;
+}

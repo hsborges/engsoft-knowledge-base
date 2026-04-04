@@ -1,5 +1,6 @@
 ---
-title: programa-de-estudantes-convenio-de-graduacao-pec-g
+title: Programa PEC-G
+sidebar_position: 1
 aliases:
   - pec-g
 tags:
@@ -11,9 +12,9 @@ tema: programa de estudantes-convenio de graduacao
 ultima_revisao: 2026-04-03
 ---
 
-## programa-de-estudantes-convenio-de-graduacao-pec-g
+Esta pasta concentra os documentos do Programa de Estudantes-Convenio de Graduacao (PEC-G), incluindo regulamentos e materiais institucionais de orientacao.
 
-Documentos do Programa de Estudantes-Convenio de Graduacao (PEC-G).
+Use este indice para localizar atos de referencia do programa e apoiar consultas sobre matricula, permanencia e situacoes academicas relacionadas ao PEC-G.
 
 ## Consultas rapidas
 

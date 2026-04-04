@@ -1,5 +1,6 @@
 ---
-title: legislacao-formacao-de-professores
+title: Legislacao de Formacao de Professores
+sidebar_position: 1
 tags:
   - legislacao
   - formacao-de-professores
@@ -9,9 +10,9 @@ tema: formacao inicial e continuada de professores
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-formacao-de-professores
+Esta pasta reune normas e referencias sobre politicas de formacao inicial e continuada de professores. O conjunto apoia leitura de programas e instrumentos institucionais ligados ao tema.
 
-Regras e diretrizes para formacao de professores.
+Consulte este diretorio quando precisar relacionar exigencias de formacao docente com regulamentos nacionais e internos da universidade.
 
 ## Consultas rapidas
 

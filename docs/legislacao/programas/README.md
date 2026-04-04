@@ -1,5 +1,6 @@
 ---
-title: programas
+title: Programas
+sidebar_position: 1
 tags:
   - legislacao
   - programas
@@ -8,9 +9,9 @@ tema: programas academicos e institucionais
 ultima_revisao: 2026-04-03
 ---
 
-## programas
+Esta pasta agrupa regulamentos e atos de programas academicos vinculados a graduacao. O objetivo e facilitar a consulta de regras especificas por programa.
 
-Regulamentos e documentos de programas academicos e institucionais.
+A partir deste indice, acesse as subpastas tematicas para visualizar documentos, relacoes normativas e materiais de apoio institucional.
 
 ## Consultas rapidas
 

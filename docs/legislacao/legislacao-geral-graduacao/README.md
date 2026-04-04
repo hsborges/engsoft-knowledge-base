@@ -1,5 +1,6 @@
 ---
-title: legislacao-geral-graduacao
+title: Legislacao Geral da Graduacao
+sidebar_position: 1
 tags:
   - legislacao
   - graduacao
@@ -9,9 +10,9 @@ tema: regulacao geral da graduacao
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-geral-graduacao
+Esta pasta reune regulamentos amplos da graduacao, com normas de organizacao academica, trajetoria discente e funcionamento de cursos. E uma referencia central para consultas recorrentes da coordenacao.
 
-Normas gerais que orientam a organizacao e a gestao da graduacao.
+Comece por este indice quando a duvida envolver regras gerais da vida academica e depois avance para normas especificas em outras subpastas.
 
 ## Consultas rapidas
 

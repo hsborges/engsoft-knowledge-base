@@ -152,7 +152,7 @@ Faça este passo a passo:
 
 ## Referências
 
-- [PPC do Curso de Engenharia de Software - FACOM (Resolução nº 1.308-Cograd/UFMS, de 8 de dezembro de 2025).](../cursos/engenharia-de-software/PPC_2025.pdf)
+- [PPC do Curso de Engenharia de Software - FACOM (Resolução nº 1.308-Cograd/UFMS, de 8 de dezembro de 2025).](../curso/PPC_2025.pdf)
 - [RESOLUÇÃO (COGRAD) n 430_ de 16-12-2021..pdf](../legislacao/legislacao-geral-graduacao/RESOLUCAO%20%28COGRAD%29%20n%20430_%20de%2016-12-2021..pdf)
 - [RESOLUÇÃO (COGRAD) n 1213_ de 24-06-2025..pdf](../legislacao/legislacao-geral-graduacao/RESOLUCAO%20%28COGRAD%29%20n%201213_%20de%2024-06-2025..pdf)
 - [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 73_ de 13-07-2023..pdf](../legislacao/normas/INSTRUCAO%20NORMATIVA%20%28PROGRAD_RTR%29%20n%2073_%20de%2013-07-2023..pdf)

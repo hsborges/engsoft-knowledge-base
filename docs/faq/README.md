@@ -1,5 +1,6 @@
 ---
 title: FAQ
+sidebar_position: 1
 aliases:
   - índice de FAQ
   - perguntas frequentes ufms
@@ -12,10 +13,9 @@ escopo: perguntas frequentes operacionais para coordenação e secretaria
 ultima_revisao: 2026-04-04
 ---
 
-## FAQ
+Esta pasta reune respostas padronizadas para duvidas recorrentes de estudantes, coordenacao, secretaria e docentes. O objetivo e apoiar atendimento com linguagem objetiva e base normativa verificavel.
 
-Índice de perguntas frequentes da base de conhecimento.
-Cada FAQ prioriza resposta operacional, base normativa e rastreabilidade.
+Antes de responder um caso concreto, localize o tema no indice e confira a base normativa indicada em cada FAQ. Assim, o atendimento permanece consistente, rastreavel e alinhado ao procedimento institucional.
 
 ## Como usar este índice
 

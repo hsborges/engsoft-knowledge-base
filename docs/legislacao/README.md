@@ -1,5 +1,6 @@
 ---
-title: legislacao
+title: Legislacao
+sidebar_position: 1
 aliases:
   - indice de legislacao ufms
   - base normativa ufms
@@ -12,11 +13,9 @@ escopo: atos normativos institucionais e nacionais de apoio a graduacao
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao
+Esta pasta organiza a base normativa que sustenta processos academicos da graduacao, com atos institucionais da UFMS e referencias nacionais. O foco e facilitar consulta por tema e tipo de ato.
 
-Indice mestre da base normativa.
-Use este README como ponto de entrada para localizar atos por tema, tipo e
-pasta.
+Use o mapa tematico para escolher a subpasta adequada e, em seguida, consulte o README local para acessar os documentos com contexto de aplicacao. Quando houver duvida interpretativa, priorize sempre o ato vigente mais especifico.
 
 ## Como usar este indice
 
@@ -41,9 +40,3 @@ pasta.
 | [normas](./normas/README.md) | instrucoes normativas e procedimentos operacionais | in prograd, requerimento, colacao, enade |
 | [programas](./programas/README.md) | regulamentos de programas academicos | pec-g, programa institucional |
 | [regulamentos-de-ccnd-da-graduacao](./regulamentos-de-ccnd-da-graduacao/README.md) | regulamentos centrais de cursos de graduacao | regulamento graduacao, resolucao 430 |
-
-## Cobertura
-
-- Total de arquivos diretos neste nivel: 0
-- Total de subpastas: 11
-- Criterio de organizacao: tema institucional + tipo de ato

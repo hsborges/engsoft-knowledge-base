@@ -1,5 +1,6 @@
 ---
-title: legislacao-educacional-nacional
+title: Legislacao Educacional Nacional
+sidebar_position: 1
 tags:
   - legislacao
   - nacional
@@ -9,9 +10,9 @@ tema: marcos nacionais de educacao superior
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-educacional-nacional
+Esta pasta concentra marcos normativos nacionais que orientam a educacao superior e a formacao de cursos. Aqui estao referencias de orgaos nacionais e diretrizes amplas de politica educacional.
 
-Marcos da legislacao educacional nacional aplicados ao ensino superior.
+Consulte este material quando a analise depender de fundamento nacional que complemente atos internos da UFMS, especialmente em temas de diretrizes curriculares e regulacao geral.
 
 ## Consultas rapidas
 

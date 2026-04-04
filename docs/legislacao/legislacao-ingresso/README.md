@@ -1,5 +1,6 @@
 ---
-title: legislacao-ingresso
+title: Legislacao de Ingresso
+sidebar_position: 1
 tags:
   - legislacao
   - ingresso
@@ -9,9 +10,9 @@ tema: ingresso, selecao e mobilidade
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-ingresso
+Esta pasta organiza documentos sobre formas de ingresso e mobilidade academica. O foco e reunir atos que orientam acesso inicial, ocupacao de vagas e modalidades relacionadas.
 
-Atos e regras relacionados ao ingresso de estudantes.
+Use o indice para localizar rapidamente a referencia normativa adequada ao tipo de ingresso analisado.
 
 ## Consultas rapidas
 

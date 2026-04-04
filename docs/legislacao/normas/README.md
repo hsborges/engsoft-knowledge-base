@@ -1,5 +1,6 @@
 ---
-title: normas
+title: Normas
+sidebar_position: 1
 aliases:
   - instrucoes normativas prograd
 tags:
@@ -11,9 +12,9 @@ tema: instrucoes normativas e procedimentos academicos
 ultima_revisao: 2026-04-03
 ---
 
-## normas
+Esta pasta reune instrucoes normativas e atos operacionais usados no dia a dia academico da graduacao. Ela funciona como referencia pratica para procedimentos com alta recorrencia administrativa.
 
-Instrucoes normativas e atos complementares, com foco em procedimentos academicos.
+Use este indice para localizar rapidamente a instrucao normativa pertinente ao processo em analise e validar o ato aplicavel antes da resposta final.
 
 ## Consultas rapidas
 

@@ -1,5 +1,6 @@
 ---
-title: legislacao-estagio
+title: Legislacao de Estagio
+sidebar_position: 1
 tags:
   - legislacao
   - estagio
@@ -9,9 +10,9 @@ tema: estagio curricular e nao obrigatorio
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-estagio
+Esta pasta organiza atos e regulamentos sobre estagio curricular obrigatorio e nao obrigatorio. O objetivo e apoiar consultas sobre regras, papeis e procedimentos formais de acompanhamento.
 
-Normas e orientacoes sobre estagio no contexto da graduacao.
+Use este indice para encontrar rapidamente os documentos aplicaveis a planejamento, formalizacao e validacao de estagio no contexto da graduacao.
 
 ## Consultas rapidas
 

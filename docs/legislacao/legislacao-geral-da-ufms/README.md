@@ -1,5 +1,6 @@
 ---
-title: legislacao-geral-da-ufms
+title: Legislacao Geral da UFMS
+sidebar_position: 1
 tags:
   - legislacao
   - ufms
@@ -9,9 +10,9 @@ tema: atos estruturantes institucionais
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-geral-da-ufms
+Esta pasta concentra atos estruturantes da UFMS, como referencias de governanca, organizacao e funcionamento institucional. Sao documentos-base para contextualizar regras academicas especificas.
 
-Documentos estruturantes e atos gerais da UFMS.
+Use este indice como apoio quando o tema exigir leitura de normas gerais da universidade antes de aplicar regras setoriais da graduacao.
 
 ## Consultas rapidas
 

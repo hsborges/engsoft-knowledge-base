@@ -1,5 +1,6 @@
 ---
-title: legislacao-avaliacao
+title: Legislacao de Avaliacao
+sidebar_position: 1
 tags:
   - legislacao
   - avaliacao
@@ -9,9 +10,9 @@ tema: avaliacao e regulacao de cursos e ies
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-avaliacao
+Esta pasta reune normas e referencias de regulacao, avaliacao e supervisao institucional e de cursos. Ela apoia consultas sobre credenciamento, reconhecimento e fluxos de monitoramento regulatorio.
 
-Normas e referenciais de avaliacao institucional e de cursos.
+Use este indice para localizar atos-chave e documentos de apoio relacionados aos processos avaliativos, com foco em aplicacao pratica para gestao academica.
 
 ## Consultas rapidas
 

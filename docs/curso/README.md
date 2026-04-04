@@ -1,17 +1,18 @@
 ---
-title: engenharia-de-software
+title: Curso
+sidebar_position: 1
 tags:
   - indice
-  - cursos
+  - curso
   - engenharia-de-software
 tipo_documento: indice-tematico
 tema: documentacao do curso de engenharia de software
 ultima_revisao: 2026-04-04
 ---
 
-## engenharia-de-software
+Esta pasta concentra os documentos estruturantes do curso de Engenharia de Software, incluindo materiais que orientam matriz, perfil de formacao e criterios academicos essenciais.
 
-Indice tematico dos principais documentos do curso de Engenharia de Software.
+Use este indice para localizar rapidamente os arquivos mais importantes do curso e entender como cada documento se relaciona com atividades curriculares e exigencias de integralizacao.
 
 ## Consultas rapidas
 

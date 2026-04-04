@@ -122,11 +122,11 @@ Use este modelo:
 - `trecho citado do documento`
 - <vigencia/temporalidade, quando aplicavel>
 
-3) Referencias:
+1) Referencias:
 
 - [arquivo-1](link-relativo-1)
 - [arquivo-2](link-relativo-2)
 
-4) Limites:
+1) Limites:
 
 - <se houver lacuna, conflito ou fonte externa necessaria>

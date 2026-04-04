@@ -1,5 +1,6 @@
 ---
-title: legislacao-professor-substituto
+title: Legislacao de Professor Substituto
+sidebar_position: 1
 tags:
   - legislacao
   - professor-substituto
@@ -9,9 +10,9 @@ tema: selecao e contratacao de professor substituto
 ultima_revisao: 2026-04-03
 ---
 
-## legislacao-professor-substituto
+Esta pasta concentra atos sobre solicitacao, selecao e contratacao de professor substituto. O conteudo apoia fluxos administrativos e decisao em unidades academicas.
 
-Normas para selecao e contratacao de professor substituto.
+Consulte este README para identificar as normas principais e navegar pelos documentos de forma objetiva durante a instrucao de processos.
 
 ## Consultas rapidas
 

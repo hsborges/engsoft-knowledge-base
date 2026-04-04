@@ -1,5 +1,6 @@
 ---
-title: regulamentos-de-ccnd-da-graduacao
+title: Regulamentos de CCND da Graduacao
+sidebar_position: 1
 tags:
   - legislacao
   - graduacao
@@ -9,9 +10,9 @@ tema: regulamentos centrais dos cursos de graduacao
 ultima_revisao: 2026-04-03
 ---
 
-## regulamentos-de-ccnd-da-graduacao
+Esta pasta reune regulamentos centrais que estruturam cursos de graduacao no ambito da universidade. Sao documentos-chave para entendimento de regras academicas nucleares.
 
-Regulamentos de cursos e componentes curriculares da graduacao.
+Consulte este indice quando precisar de referencia normativa-base para fundamentar orientacoes de coordenacao e secretaria.
 
 ## Consultas rapidas
 

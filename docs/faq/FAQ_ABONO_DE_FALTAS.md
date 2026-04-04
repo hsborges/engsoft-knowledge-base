@@ -231,10 +231,10 @@ arts. 2º a 6º.
 
 ## Referências
 
-- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 71_ de 02-05-2023..pdf][ref-71]
-- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 59_ de 17-03-2022..pdf][ref-59]
-- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 72_ de 16-05-2023..pdf][ref-72]
-- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 62_ de 14-10-2022..pdf][ref-62]
+- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 71_ de 02-05-2023..pdf](<../legislacao/normas/INSTRUCAO NORMATIVA (PROGRAD_RTR) n 71_ de 02-05-2023..pdf>)
+- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 59_ de 17-03-2022..pdf](<../legislacao/normas/INSTRUCAO NORMATIVA (PROGRAD_RTR) n 59_ de 17-03-2022..pdf>)
+- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 72_ de 16-05-2023..pdf](<../legislacao/normas/INSTRUCAO NORMATIVA (PROGRAD_RTR) n 72_ de 16-05-2023..pdf>)
+- [INSTRUÇÃO NORMATIVA (PROGRAD_RTR) n 62_ de 14-10-2022..pdf](<../legislacao/normas/INSTRUCAO NORMATIVA (PROGRAD_RTR) n 62_ de 14-10-2022..pdf>)
 
 ## Limites
 
@@ -243,8 +243,3 @@ arts. 2º a 6º.
 - O termo “abono de faltas” foi traduzido, para fins operacionais, pelas
   categorias normativas de **compensação de faltas**, **Regime Especial** e
   **revisão de frequência**.
-
-[ref-71]: ../legislacao/normas/INSTRUCAO%20NORMATIVA%20%28PROGRAD_RTR%29%20n%2071_%20de%2002-05-2023..pdf
-[ref-59]: ../legislacao/normas/INSTRUCAO%20NORMATIVA%20%28PROGRAD_RTR%29%20n%2059_%20de%2017-03-2022..pdf
-[ref-72]: ../legislacao/normas/INSTRUCAO%20NORMATIVA%20%28PROGRAD_RTR%29%20n%2072_%20de%2016-05-2023..pdf
-[ref-62]: ../legislacao/normas/INSTRUCAO%20NORMATIVA%20%28PROGRAD_RTR%29%20n%2062_%20de%2014-10-2022..pdf
