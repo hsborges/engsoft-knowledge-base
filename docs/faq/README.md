@@ -25,9 +25,10 @@ Cada FAQ prioriza resposta operacional, base normativa e rastreabilidade.
 
 ## Convenção de organização
 
-- Salvar os arquivos de FAQ diretamente em `faq/` (sem subpastas por tema).
+- Salvar os arquivos de FAQ diretamente em `docs/faq/` (sem subpastas por tema).
 - Nomear os arquivos no padrão `FAQ_<TEMA>.md`.
-- Manter frontmatter com `tipo_documento`, `tema`, `base_normativa_principal` e `ultima_revisao`.
+- Manter frontmatter com `tipo_documento`, `tema`,
+  `base_normativa_principal` e `ultima_revisao`.
 - Atualizar este índice sempre que um novo FAQ for criado ou renomeado.
 
 ## FAQs por tema

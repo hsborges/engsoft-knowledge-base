@@ -10,6 +10,7 @@ Esta skill estrutura a elaboração de FAQs com profundidade analítica, evitand
 ## Objetivo da skill
 
 Produzir FAQs que sejam:
+
 - **claras** para o público final;
 - **corretas** em relação à norma/procedimento;
 - **acionáveis** para atendimento;
@@ -19,12 +20,13 @@ Produzir FAQs que sejam:
 ## Quando usar
 
 Use quando houver pedido de:
+
 - criação de FAQ do zero;
 - revisão/atualização de FAQ existente;
 - padronização de respostas frequentes da coordenação;
 - conversão de norma em orientação para estudante.
 
-Não use para responder consulta normativa sem verificar os atos. Se houver dúvida sobre artigo, prazo, competência, vigência, alteração/revogação ou conflito entre normas, carregue a skill [`ufms-legislacao`](../ufms-legislacao/SKILL.md) e siga seu fluxo.
+Não use para responder consulta normativa sem verificar os atos. Se houver dúvida sobre artigo, prazo, competência, vigência, alteração/revogação ou conflito entre normas, carregue a skill [`ufms-docs`](../ufms-docs/SKILL.md) e siga seu fluxo.
 
 ## Profundidade mínima obrigatória (análise criteriosa)
 
@@ -67,6 +69,7 @@ Antes de redigir o FAQ final, execute estas 7 etapas:
 ## Matriz obrigatória de rastreabilidade (pergunta -> dispositivo)
 
 Antes de finalizar, monte obrigatoriamente uma matriz com:
+
 - Pergunta da FAQ;
 - Regra sintetizada em 1 frase;
 - Dispositivo de base (ato + artigo/parágrafo/inciso);
@@ -106,26 +109,29 @@ Entregue nesta ordem:
 4. **Referências de base**
    - Links clicáveis (Markdown) dos arquivos usados.
    - Referencie diretamente os documentos normativos aplicados (ex.: PDFs), sem incluir `README.md` na lista final de referências.
-- Para PDFs, use o **título do PDF** como texto do link (ex.: `[RESOLUÇÃO (COGRAD) n 430_ de 16-12-2021.](caminho/arquivo.pdf)`).
-   - Para arquivos não-PDF que forem indispensáveis, use o nome do arquivo como texto do link.
 
-5. **Limites**
+- Para PDFs, use o **título do PDF** como texto do link (ex.: `[RESOLUÇÃO (COGRAD) n 430_ de 16-12-2021.](caminho/arquivo.pdf)`).
+  - Para arquivos não-PDF que forem indispensáveis, use o nome do arquivo como texto do link.
+
+1. **Limites**
    - Lacunas documentais, necessidade de fonte externa, conflitos não resolvidos.
 
 ## Destino dos arquivos gerados
 
-Ao salvar entregáveis finais, usar sempre [`faq/`](../../../faq/).
+Ao salvar entregáveis finais, usar sempre [`docs/faq/`](../../../docs/faq/).
 
 Padrão recomendado de nome:
-- [`faq/FAQ_<TEMA>.md`](../../../faq/)
+
+- [`docs/faq/FAQ_<TEMA>.md`](../../../docs/faq/)
 
 Não gerar arquivo separado de análise (`ANALISE_<TEMA>.md`). A análise prévia deve aparecer apenas no corpo da resposta, antes do FAQ final.
 
 ## Atualização obrigatória do índice de FAQs
 
-Sempre que criar, renomear ou remover uma FAQ em [`faq/`](../../../faq/), atualizar na mesma entrega o arquivo [`faq/README.md`](../../../faq/README.md).
+Sempre que criar, renomear ou remover uma FAQ em [`docs/faq/`](../../../docs/faq/), atualizar na mesma entrega o arquivo [`docs/faq/README.md`](../../../docs/faq/README.md).
 
 Atualizações mínimas obrigatórias no índice:
+
 - tabela **FAQs por tema**;
 - campo `ultima_revisao`;
 - seção **Tags sugeridas para indexação**, quando o novo tema introduzir tag nova ou tornar alguma tag obsoleta.
@@ -148,6 +154,7 @@ Se a FAQ mudar de nome, tema ou escopo, refletir imediatamente essa alteração 
 ## Revisão editorial obrigatória
 
 Antes da entrega final, fazer uma passada de revisão editorial para garantir:
+
 - consistência de idioma (sem trechos em inglês ou mistura indevida de idiomas);
 - acentuação correta (ex.: "coordenacao" -> "coordenação", "analise" -> "análise");
 - concordância nominal e verbal;
@@ -164,7 +171,7 @@ Antes da entrega final, fazer uma passada de revisão editorial para garantir:
 - [ ] Limites e incertezas foram explicitados?
 - [ ] A matriz pergunta -> dispositivo foi preenchida?
 - [ ] A FAQ passou no Gate de completude mínima?
-- [ ] O `faq/README.md` foi atualizado quando houve inclusão, renomeação ou remoção de FAQ?
+- [ ] O `docs/faq/README.md` foi atualizado quando houve inclusão, renomeação ou remoção de FAQ?
 
 ## Iteração curta obrigatória (teste -> ajuste -> reteste)
 
@@ -176,6 +183,7 @@ Quando esta skill for criada/atualizada, execute um ciclo mínimo:
 4. **Reteste** com os mesmos prompts e comparar melhoria.
 
 Formato de registro sugerido:
+
 - Iteração 1 (baseline): pontos fortes, falhas, decisões de ajuste.
 - Iteração 2 (após ajuste): o que melhorou, o que falta.
 
@@ -183,7 +191,7 @@ Só considerar a skill pronta quando a iteração 2 atender integralmente o Gate
 
 ## Organização de arquivos
 
-- **Documentos FAQ gerados para uso institucional**: salvar em [`faq/`](../../../faq/) (não misturar com arquivos da skill).
+- **Documentos FAQ gerados para uso institucional**: salvar em [`docs/faq/`](../../../docs/faq/) (não misturar com arquivos da skill).
 
 ## Recursos da skill
 

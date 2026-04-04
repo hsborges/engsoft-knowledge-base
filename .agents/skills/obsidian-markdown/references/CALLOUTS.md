@@ -32,21 +32,19 @@
 
 ## Supported Callout Types
 
-| Type | Aliases | Color / Icon |
-|------|---------|-------------|
-| `note` | - | Blue, pencil |
-| `abstract` | `summary`, `tldr` | Teal, clipboard |
-| `info` | - | Blue, info |
-| `todo` | - | Blue, checkbox |
-| `tip` | `hint`, `important` | Cyan, flame |
-| `success` | `check`, `done` | Green, checkmark |
-| `question` | `help`, `faq` | Yellow, question mark |
-| `warning` | `caution`, `attention` | Orange, warning |
-| `failure` | `fail`, `missing` | Red, X |
-| `danger` | `error` | Red, zap |
-| `bug` | - | Red, bug |
-| `example` | - | Purple, list |
-| `quote` | `cite` | Gray, quote |
+- `note`: aliases `-`; color/icon Blue, pencil
+- `abstract`: aliases `summary`, `tldr`; color/icon Teal, clipboard
+- `info`: aliases `-`; color/icon Blue, info
+- `todo`: aliases `-`; color/icon Blue, checkbox
+- `tip`: aliases `hint`, `important`; color/icon Cyan, flame
+- `success`: aliases `check`, `done`; color/icon Green, checkmark
+- `question`: aliases `help`, `faq`; color/icon Yellow, question mark
+- `warning`: aliases `caution`, `attention`; color/icon Orange, warning
+- `failure`: aliases `fail`, `missing`; color/icon Red, X
+- `danger`: aliases `error`; color/icon Red, zap
+- `bug`: aliases `-`; color/icon Red, bug
+- `example`: aliases `-`; color/icon Purple, list
+- `quote`: aliases `cite`; color/icon Gray, quote
 
 ## Custom Callouts (CSS)
 
