@@ -3,8 +3,6 @@ name: ufms-docs
 description: Diretrizes para consultas documentais no acervo `docs/`, com foco em rastreabilidade, precisao de fonte e resposta acionavel. Use sempre que houver duvida sobre regras, procedimentos, cursos, atos normativos, prazos, competencias, vigencia, alteracao/revogacao, ou quando a resposta depender de documentos internos da UFMS. Nao use `docs/faq/` como fonte primaria.
 ---
 
-# UFMS Docs
-
 Esta skill orienta consultas, interpretacao e respostas com base no acervo [`docs/`](../../../docs/), com exclusao explicita de [`docs/faq/`](../../../docs/faq/).
 
 ## When to Use This Skill

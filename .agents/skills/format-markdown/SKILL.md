@@ -3,8 +3,6 @@ name: format-markdown
 description: Valida e orienta formatacao de documentos Markdown com markdownlint-cli2. Use sempre que o usuario pedir checagem de padrao, revisao de estilo Markdown ou validacao antes de publicar documentacao.
 ---
 
-# Format Markdown
-
 Esta skill valida documentos Markdown com `markdownlint-cli2` usando o script
 manual do projeto.
 

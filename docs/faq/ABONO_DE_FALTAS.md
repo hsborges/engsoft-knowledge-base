@@ -19,8 +19,6 @@ base_normativa_principal:
 ultima_revisao: 2026-04-03
 ---
 
-# Abono de Faltas na Graduação da UFMS
-
 ## Objetivo
 
 Orientar estudantes e equipes acadêmicas sobre quando a ausência pode ser

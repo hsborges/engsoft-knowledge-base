@@ -1,6 +1,15 @@
-# [TITULO]
-
-> Titulo principal do FAQ em H1.
+---
+title: [TITULO]
+aliases:
+  - [ALIAS 1]
+tags:
+  - faq/[tema]
+tipo_documento: faq-operacional
+tema: [tema da faq]
+base_normativa_principal:
+  - [ATO 1]
+ultima_revisao: [AAAA-MM-DD]
+---
 
 ## Objetivo
 

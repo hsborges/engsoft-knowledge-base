@@ -3,8 +3,6 @@ name: criacao-faq-coordenacao
 description: Cria e revisa FAQs institucionais para coordenação de curso com análise criteriosa, rastreabilidade e foco operacional. Use esta skill sempre que o usuário pedir FAQ, perguntas frequentes, guia de atendimento, respostas padrão de secretaria/coordenação, ou transformar normas/procedimentos em linguagem clara e acionável.
 ---
 
-# Skill: Criação de FAQ para Coordenação de Curso
-
 Esta skill estrutura a elaboração de FAQs com profundidade analítica, evitando respostas superficiais e sem base documental.
 
 ## Objetivo da skill
@@ -142,7 +140,7 @@ Se a FAQ mudar de nome, tema ou escopo, refletir imediatamente essa alteração 
 
 - Perguntas em linguagem natural (como o usuário realmente pergunta).
 - Respostas entre 3 e 8 linhas, objetivas.
-- No corpo do FAQ, usar título principal em H1 (`# Título`), não H2.
+- Quando houver frontmatter com `title`, não repetir o título no corpo do FAQ.
 - Redigir todo o conteúdo final em **português (Brasil)**.
 - Aplicar acentuação e ortografia corretamente antes de entregar (incluindo títulos, perguntas, respostas, frontmatter e checklist).
 - Destaque prazos em **negrito**.

@@ -20,8 +20,6 @@ base_normativa_principal:
 ultima_revisao: 2026-04-04
 ---
 
-# Prazo Máximo de Conclusão e Dilação de Prazo em Engenharia de Software
-
 ## Objetivo
 
 Esta FAQ explica, de forma prática, qual é o prazo máximo para concluir o curso

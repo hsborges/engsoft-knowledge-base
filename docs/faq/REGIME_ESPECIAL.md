@@ -17,8 +17,6 @@ base_normativa_principal:
 ultima_revisao: 2026-04-03
 ---
 
-# Regime Especial para Estudantes de Graduação da UFMS
-
 ## Objetivo
 
 Esta FAQ explica, de forma prática, quando o estudante pode pedir regime
