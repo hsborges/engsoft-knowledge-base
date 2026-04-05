@@ -2,7 +2,6 @@
 description: Agente auxiliar de coordenacao de curso para consultas academico-normativas e criacao de material de apoio no projeto.
 mode: primary
 temperature: 0.2
-steps: 12
 tools:
   read: true
   write: true
