@@ -10,7 +10,7 @@ tags:
   - atendimento
 tipo_documento: indice-faq
 escopo: perguntas frequentes operacionais para coordenação e secretaria
-ultima_revisao: 2026-04-04
+ultima_revisao: 2026-04-08
 ---
 
 Esta pasta reune respostas padronizadas para duvidas recorrentes de estudantes, coordenacao, secretaria e docentes. O objetivo e apoiar atendimento com linguagem objetiva e base normativa verificavel.
@@ -37,6 +37,7 @@ Antes de responder um caso concreto, localize o tema no indice e confira a base 
 | --- | --- | --- | --- |
 | abono de faltas | estudante, coordenação, secretaria, docente | IN PROGRAD 71/2023; IN PROGRAD 59/2022; IN PROGRAD 72/2023 | [Abono de Faltas](./ABONO_DE_FALTAS.md) |
 | estágio obrigatório, estágio não obrigatório e aproveitamento em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 706/2022; Resolução COGRAD 1052/2024 | [FAQ de Estágio](./ESTAGIO_ES.md) |
+| disciplinas optativas em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 430/2021; Resolução COGRAD 1213/2025 | [Disciplinas Optativas](./OPTATIVAS_ES.md) |
 | prazo máximo e dilação em engenharia de software | estudante, coordenação, secretaria | PPC Engenharia de Software 2025; Resolução COGRAD 430/2021; IN PROGRAD 73/2023 | [Prazo Máximo e Dilação em ES](./PRAZO_MAXIMO_E_DILACAO_ES.md) |
 | regime especial | estudante, coordenação, secretaria, docente | IN PROGRAD 59/2022; Resolução COGRAD 430/2021 | [Regime Especial](./REGIME_ESPECIAL.md) |
 
@@ -45,6 +46,7 @@ Antes de responder um caso concreto, localize o tema no indice e confira a base 
 - `faq/abono-de-faltas`
 - `faq/estagio`
 - `faq/aproveitamento`
+- `faq/optativas`
 - `faq/dilacao-de-prazo`
 - `faq/prazo-maximo`
 - `curso/engenharia-de-software`
