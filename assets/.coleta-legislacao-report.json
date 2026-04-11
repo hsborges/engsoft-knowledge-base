@@ -1,0 +1,1168 @@
+{
+  "generated_at": "2026-04-11T02:49:48.848102+00:00",
+  "base_url": "https://prograd.ufms.br/legislacao/",
+  "summary": {
+    "pages_analyzed": 19,
+    "doc_links_found": 119,
+    "new_files": 111,
+    "unchanged": 0,
+    "changed_pending_review": 0,
+    "failures": 8
+  },
+  "new_files": [
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=426373",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=426373",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/BOLETIMOFICIAL-id-426373.pdf",
+      "sha256": "da57a7410518450d36e023918bdacf77f5f8a7149aa69c0ace083e2cc4372dea",
+      "size_bytes": 964726,
+      "updated_at": "2026-04-11T02:47:27.448957+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=441904",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=441904",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/BOLETIMOFICIAL-id-441904.pdf",
+      "sha256": "a9998b339513ad1ebcbfa20686a69240588dd8f296bb425336715f9b6c5e4644",
+      "size_bytes": 1246621,
+      "updated_at": "2026-04-11T02:47:28.719433+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://progep.ufms.br/files/2021/05/5-Plano-de-Desenvolvimento-de-Pessoas-PDP-2021.pdf",
+      "resolved_url": "https://progep.ufms.br/files/2021/05/5-Plano-de-Desenvolvimento-de-Pessoas-PDP-2021.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/5-Plano-de-Desenvolvimento-de-Pessoas-PDP-2021.pdf",
+      "sha256": "4fccd4e6a71e5e9e003d7dd7877f1094b904d872d3235acd45ac91e5f16f420e",
+      "size_bytes": 3151603,
+      "updated_at": "2026-04-11T02:47:29.934896+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/estatuto_atual.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/estatuto_atual.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/estatuto_atual.pdf",
+      "sha256": "b4a22d23682d53411604180a67d2d4f34cc3450874957f1b7da05dad8d0038e4",
+      "size_bytes": 492565,
+      "updated_at": "2026-04-11T02:47:31.193959+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/regimento_atual.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/regimento_atual.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/regimento_atual.pdf",
+      "sha256": "d5dbbfd0be67ef7bd8f757743eb8c73b63b5823ea2e25d2c4ac9502b73a02a4e",
+      "size_bytes": 698856,
+      "updated_at": "2026-04-11T02:47:32.475586+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/02/Resolucao_COUN_-93_05-12-2014.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/02/Resolucao_COUN_-93_05-12-2014.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/Resolucao_COUN_-93_05-12-2014.pdf",
+      "sha256": "68665fcf9d06d7535c22d11097ab7996030909f6df70901eae474346b8b1ba13",
+      "size_bytes": 173321,
+      "updated_at": "2026-04-11T02:47:33.619132+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440865",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440865",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/BOLETIMOFICIAL-id-440865.pdf",
+      "sha256": "2870e35a290d9e94e11bd173475082576b67c6bb4ee6d625e8f746429baa4d1e",
+      "size_bytes": 323168,
+      "updated_at": "2026-04-11T02:47:34.373498+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440867",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440867",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-da-ufms/",
+      "local_path": "assets/legislacao-geral-da-ufms/BOLETIMOFICIAL-id-440867.pdf",
+      "sha256": "5fa9b5d4ef901c7862851d13d18629bfa02dea524c23c1e95ac5d51d26086ec9",
+      "size_bytes": 268962,
+      "updated_at": "2026-04-11T02:47:35.016741+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=445057",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=445057",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-445057.pdf",
+      "sha256": "2f6113831f28feb73c36e100d8d29fee32486e884135e42aa955ffa68875f392",
+      "size_bytes": 1140394,
+      "updated_at": "2026-04-11T02:47:36.426739+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=518236",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=518236",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-518236.pdf",
+      "sha256": "2ef89831a6ddb9ee2a80adbb11474837eb3a8c2d359ef9c41780a8366a42e000",
+      "size_bytes": 238362,
+      "updated_at": "2026-04-11T02:47:37.287887+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=564880",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=564880",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-564880.pdf",
+      "sha256": "80a40ae5eb4d82614e5f2738190b1b11b550313b47e51f00f06f6617fbb6a572",
+      "size_bytes": 363889,
+      "updated_at": "2026-04-11T02:47:38.071729+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=460873",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=460873",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-460873.pdf",
+      "sha256": "304dcd898e9c4f59ab71873a21b9c65de4e287621dbdf30ae72a4281b09b0395",
+      "size_bytes": 287170,
+      "updated_at": "2026-04-11T02:47:38.704812+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=460874",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=460874",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-460874.pdf",
+      "sha256": "21b2791338371fc274d54a58fdcfdf7e26eabe00f30956a68d3634b93e8fa3ed",
+      "size_bytes": 331597,
+      "updated_at": "2026-04-11T02:47:39.551295+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=481502",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=481502",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-481502.pdf",
+      "sha256": "6b48feed398490bccbecbc9903a5c01802f9d543ad1b51a8155b6ab2618aedea",
+      "size_bytes": 429631,
+      "updated_at": "2026-04-11T02:47:40.677829+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=427614",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=427614",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-427614.pdf",
+      "sha256": "34e1da3a3ea752211ab49663dfec98424302b50d5826bc23da43a5b26d56e9b5",
+      "size_bytes": 291363,
+      "updated_at": "2026-04-11T02:47:41.460807+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2026/02/RESOLUCAO-COGRAD-n-1411-de-25-02-2026.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2026/02/RESOLUCAO-COGRAD-n-1411-de-25-02-2026.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/RESOLUCAO-COGRAD-n-1411-de-25-02-2026.pdf",
+      "sha256": "71ce788a0494585ef21d5303271c40c51ea8559bf2a23cb34861da93cc0ee938",
+      "size_bytes": 244726,
+      "updated_at": "2026-04-11T02:47:42.085042+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=476540",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=476540",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-476540.pdf",
+      "sha256": "83284974427bf49b487a67533055ad9b9f9d93fb61f6916d838a33a92572f04e",
+      "size_bytes": 642853,
+      "updated_at": "2026-04-11T02:47:43.115253+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=518235",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=518235",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-518235.pdf",
+      "sha256": "84ff1ee29cad0a8ea827c7a5ef83c5cfce0d94bcd95e0de525efb59bcb0d5b4c",
+      "size_bytes": 251744,
+      "updated_at": "2026-04-11T02:47:43.911946+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=564403",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=564403",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-564403.pdf",
+      "sha256": "f5c5621f76f8328b5369b714c7c74aec5c72a573b6675e1762967f63a6cb4141",
+      "size_bytes": 338036,
+      "updated_at": "2026-04-11T02:47:44.938704+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=510675",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=510675",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-510675.pdf",
+      "sha256": "2b5cceabd752ce5c19eda22a3be9fe778905530c9d261a34c4277d967c77f7d5",
+      "size_bytes": 449109,
+      "updated_at": "2026-04-11T02:47:45.784468+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=434785",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=434785",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-434785.pdf",
+      "sha256": "db5438a56274ecdc0d7a75c8b11a931c61fd51efbb47bc7dc43ca1b7cd57fcfa",
+      "size_bytes": 260903,
+      "updated_at": "2026-04-11T02:47:46.425558+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=432823",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=432823",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-432823.pdf",
+      "sha256": "36eb01923d7148f740e0b5ac70ad6df770fc9c68e90325206507e9a1d17129f6",
+      "size_bytes": 1052943,
+      "updated_at": "2026-04-11T02:47:47.663163+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=421540",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=421540",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-421540.pdf",
+      "sha256": "879c5283dc42a2dccb9e3b35d0c22cd4de9074520b0f9e67e5c727bfe299d113",
+      "size_bytes": 1492998,
+      "updated_at": "2026-04-11T02:47:50.050410+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=300161",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=300161",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-300161.pdf",
+      "sha256": "79b83fb85a1ac7900a1def94a40e653b7fff1da7f5e9d8655dc927323d1e91b9",
+      "size_bytes": 442538,
+      "updated_at": "2026-04-11T02:47:52.394090+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2014/11/RESOLUCAO-COUN-n-73-de-23-08-2018.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2014/11/RESOLUCAO-COUN-n-73-de-23-08-2018.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/RESOLUCAO-COUN-n-73-de-23-08-2018.pdf",
+      "sha256": "de24226fd7f7dca7541c0e5e2726764bf43dd2edab3ebe23af4b406922eb6f3c",
+      "size_bytes": 1504550,
+      "updated_at": "2026-04-11T02:48:00.974947+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511212",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511212",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-511212.pdf",
+      "sha256": "8fe2dcfcafac62ccb6989d8e3fbc980287652f1a95044edce4aac24e60ecc0be",
+      "size_bytes": 424808,
+      "updated_at": "2026-04-11T02:48:01.776436+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=433583",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=433583",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-433583.pdf",
+      "sha256": "6fd963f52007d6f41873dfddcd93e85a20c70b1e50d3331064cb450f291c5922",
+      "size_bytes": 344934,
+      "updated_at": "2026-04-11T02:48:02.479091+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=374223",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=374223",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-374223.pdf",
+      "sha256": "0606d847ffb0921d28cda9e724ac2b3b11947ab3600f4492008e2887e28d9c7a",
+      "size_bytes": 470951,
+      "updated_at": "2026-04-11T02:48:03.370116+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/09/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/09/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "sha256": "adfc4c7955b8eca6fc288d2eb5980309765e0c449db307201bbf93298b80338c",
+      "size_bytes": 14302,
+      "updated_at": "2026-04-11T02:48:04.208700+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=374222",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=374222",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-374222.pdf",
+      "sha256": "b57ebbae14e3978eee83483d94c2caf068c1e09019e8b578b041f78f3ba073a8",
+      "size_bytes": 316606,
+      "updated_at": "2026-04-11T02:48:04.911881+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=373122",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=373122",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-373122.pdf",
+      "sha256": "1a6a0c2ec6939bab2a5165dea067fe55ebd3f96cf523bd7a78682389b9f5b79d",
+      "size_bytes": 405387,
+      "updated_at": "2026-04-11T02:48:05.637608+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=372723",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=372723",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/BOLETIMOFICIAL-id-372723.pdf",
+      "sha256": "3f3290563880f67b96a02a133d31c692aa6745d75b4ab8c65c50bac86ba85bb5",
+      "size_bytes": 137946,
+      "updated_at": "2026-04-11T02:48:06.252388+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/Res.-106-2016.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/Res.-106-2016.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/Res.-106-2016.pdf",
+      "sha256": "87c0bfc80e30bb678e20ee16713c559785da58d0978c4f02538ad586516a5648",
+      "size_bytes": 614803,
+      "updated_at": "2026-04-11T02:48:07.627674+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/Res.-105-2016.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/Res.-105-2016.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/Res.-105-2016.pdf",
+      "sha256": "7e75d196d41546c3209612ddfb86bd218f05fcb6e8c05f73ac06c17b91231e5a",
+      "size_bytes": 502874,
+      "updated_at": "2026-04-11T02:48:08.790126+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/Res.-104-2016.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/Res.-104-2016.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-geral-graduacao/",
+      "local_path": "assets/legislacao-geral-graduacao/Res.-104-2016.pdf",
+      "sha256": "0bd56c4677d63f8b294cb6ffd9ed8bef56420caba4a1bddb1d2fc330d3f30a42",
+      "size_bytes": 457375,
+      "updated_at": "2026-04-11T02:48:09.936675+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=492228",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=492228",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-492228.pdf",
+      "sha256": "c8b7cc92f75b0d805a5dfd7333d1f52ca447c32b289542542e1704cc6ecb388b",
+      "size_bytes": 376829,
+      "updated_at": "2026-04-11T02:48:10.690314+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=488847",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=488847",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-488847.pdf",
+      "sha256": "af83ffcceb0535326e9a1023316ba94e411c5636ac582362826faac7ca51f3f9",
+      "size_bytes": 255245,
+      "updated_at": "2026-04-11T02:48:11.351020+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=469452",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=469452",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-469452.pdf",
+      "sha256": "a6ce1127cf7e06ed12cee0e3258a7a5a36b65bd2584961c6998c28c3ddddaac0",
+      "size_bytes": 657685,
+      "updated_at": "2026-04-11T02:48:12.272511+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=523621",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=523621",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-523621.pdf",
+      "sha256": "e30d6ee9f2e61376d6a0f31c3dc0f5e357c08251fe37e45602e7d53689bc4e94",
+      "size_bytes": 414574,
+      "updated_at": "2026-04-11T02:48:13.046050+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=547059",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=547059",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-547059.pdf",
+      "sha256": "23a117ff5be3a0a648e840465a4799a5aded51e21a944718826d515dd9285e3d",
+      "size_bytes": 442127,
+      "updated_at": "2026-04-11T02:48:13.782887+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=500164",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=500164",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-500164.pdf",
+      "sha256": "350c2986314302fdb7730fb528a3697939a0ab791b3c57776a29fb8f3c6e507b",
+      "size_bytes": 376612,
+      "updated_at": "2026-04-11T02:48:14.484019+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=488886",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=488886",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-488886.pdf",
+      "sha256": "faa94b872a7d2e25f0431a0856e959ee763670b39b440dbb9cab45bcf54813f1",
+      "size_bytes": 250109,
+      "updated_at": "2026-04-11T02:48:15.139881+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=487731",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=487731",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-487731.pdf",
+      "sha256": "ddffe035a8807dfdf88f67531b5445a03cf433e7d884175772ac7c862e1c593a",
+      "size_bytes": 294915,
+      "updated_at": "2026-04-11T02:48:15.865629+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=486319",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=486319",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-486319.pdf",
+      "sha256": "8cf220ae8620ae50689d431f65df45f0e0fd19cac2c4eaa495beadfbb7bec921",
+      "size_bytes": 275750,
+      "updated_at": "2026-04-11T02:48:16.532015+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511204",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511204",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-511204.pdf",
+      "sha256": "444a1b38a8b051588e2f3313253f62997b85602a75dd5b472ae0ab5a5ce0bd1c",
+      "size_bytes": 340399,
+      "updated_at": "2026-04-11T02:48:17.307326+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511207",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511207",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-511207.pdf",
+      "sha256": "1f8314654176fcd6995ba5f1f396aef715e00fef22be38b027deb4619da7cd0f",
+      "size_bytes": 300063,
+      "updated_at": "2026-04-11T02:48:17.993440+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511205",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=511205",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-511205.pdf",
+      "sha256": "072045f6d8b364e799729952c185df952fb442fbf57547a0f1c5b0a77769deaf",
+      "size_bytes": 338697,
+      "updated_at": "2026-04-11T02:48:18.677056+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=470312",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=470312",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-470312.pdf",
+      "sha256": "ec6ea9708abace55ddfdee550da4af73ec1e91675e38a999962e551f317cddb1",
+      "size_bytes": 205998,
+      "updated_at": "2026-04-11T02:48:19.270745+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=467471",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=467471",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-467471.pdf",
+      "sha256": "b8973919a2f2d603ae48f715c556e2de64d5da9150bb3ff458d260099664981d",
+      "size_bytes": 284608,
+      "updated_at": "2026-04-11T02:48:19.903974+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=466769",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=466769",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-466769.pdf",
+      "sha256": "9eb9d095fce5d843954bd1a6931150192db8c8e23e3a2a55f09adef20ffcb9fe",
+      "size_bytes": 436962,
+      "updated_at": "2026-04-11T02:48:20.772264+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=451127",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=451127",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-451127.pdf",
+      "sha256": "ebae02cf9e3f909c46a66ed2f427a3414888626f2977bd557dcccd296017037b",
+      "size_bytes": 365234,
+      "updated_at": "2026-04-11T02:48:22.712439+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440585",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=440585",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-440585.pdf",
+      "sha256": "5d24da8233b8d4135d60ceea46089ba5e117851c6984176516366dc4afa947ff",
+      "size_bytes": 249723,
+      "updated_at": "2026-04-11T02:48:23.361913+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=435416",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=435416",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-435416.pdf",
+      "sha256": "38321117815f263b43cd3a748dbc7c391a0523de9f5b1a39af93e6410e0e7d9a",
+      "size_bytes": 284900,
+      "updated_at": "2026-04-11T02:48:24.036050+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=435415",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=435415",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-435415.pdf",
+      "sha256": "db8408447e716b29585224b03b9aac2468bdb34842a34fa24e58257bb8ea6536",
+      "size_bytes": 246491,
+      "updated_at": "2026-04-11T02:48:24.665939+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=431588",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=431588",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-431588.pdf",
+      "sha256": "4c623e906b2c0f06b2028d17298bea8cb05198295d4a4f903fea9c3111c01b4f",
+      "size_bytes": 483700,
+      "updated_at": "2026-04-11T02:48:25.585203+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=420997",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=420997",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-420997.pdf",
+      "sha256": "81655c216526fcdd91e439affb97e2f56cd3e7da3a27fb5d2f5dffccd44e7a70",
+      "size_bytes": 355160,
+      "updated_at": "2026-04-11T02:48:26.523860+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=417493",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=417493",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-417493.pdf",
+      "sha256": "4da4efa8d633374c08c875d2cb28df5ca668af3c6c07ab579d1bf750208b6797",
+      "size_bytes": 374043,
+      "updated_at": "2026-04-11T02:48:27.196244+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=416942",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=416942",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-416942.pdf",
+      "sha256": "ab5c02beb2ddec3dcc30d13339d05328db24bab155668a10c0c6ad084b7ed37a",
+      "size_bytes": 826919,
+      "updated_at": "2026-04-11T02:48:28.122105+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=416923",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=416923",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-416923.pdf",
+      "sha256": "4f860bf0469b5909a783648b50200baeed6e8e85fbf3af1be69d99f731856b74",
+      "size_bytes": 316599,
+      "updated_at": "2026-04-11T02:48:28.796925+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=420076",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=420076",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-420076.pdf",
+      "sha256": "997e8c5bfe2619f4a414212abb307b1db620b9643cf5c966a6799654bf4c77d6",
+      "size_bytes": 373661,
+      "updated_at": "2026-04-11T02:48:29.556795+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=494742",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=494742",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-494742.pdf",
+      "sha256": "2c94170d8a1ce37ba5c8f895a2b374cdaa64c5d86042c8d50c3064b8bc157ae9",
+      "size_bytes": 214775,
+      "updated_at": "2026-04-11T02:48:30.174147+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=382983",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=382983",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-382983.pdf",
+      "sha256": "60307e82112baff3fe6d15ee8813d1b3cedbea1c5bf1f91c448343ee8b07af60",
+      "size_bytes": 225044,
+      "updated_at": "2026-04-11T02:48:30.811094+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=382348",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=382348",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-382348.pdf",
+      "sha256": "227c06704bc4767bb198366d50d86dc975ff45fa210e89ec95b9d0cb8ba213f6",
+      "size_bytes": 246633,
+      "updated_at": "2026-04-11T02:48:31.450458+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=385250",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=385250",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-385250.pdf",
+      "sha256": "6cd4249d1cce802b69276e560bd4d688ecaeb143c6864d3797d1120a33131cc3",
+      "size_bytes": 321951,
+      "updated_at": "2026-04-11T02:48:32.279259+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=372482",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=372482",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-372482.pdf",
+      "sha256": "2fd504c5a121cb2a0d239ba6fedf74b63b5752186981b7622b691a1c4309f55c",
+      "size_bytes": 201219,
+      "updated_at": "2026-04-11T02:48:32.895905+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=544895",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=544895",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-544895.pdf",
+      "sha256": "1824b06156ff9ffacda45526324766cdb62129e4305cd54dc5b030d05da5fce3",
+      "size_bytes": 470026,
+      "updated_at": "2026-04-11T02:48:33.674963+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=544896",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=544896",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-544896.pdf",
+      "sha256": "01f8b7b42229ec94a39d42e9073645277947b835fdcebee7e46354260a553f72",
+      "size_bytes": 229711,
+      "updated_at": "2026-04-11T02:48:34.296043+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=545730",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=545730",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "local_path": "assets/normas/BOLETIMOFICIAL-id-545730.pdf",
+      "sha256": "ed760a42f3bb1d4f1f5569f433fcbc55b44ec313a48fa6e4353a6db5ff588989",
+      "size_bytes": 370751,
+      "updated_at": "2026-04-11T02:48:35.039231+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_nº_266_2013.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_n%c2%ba_266_2013.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/resolucao_coeg_no_266_2013.pdf",
+      "sha256": "6c3fa08050d5a7c323c91471775b77176ecf0b3d54360080b9dd235afbf2d081",
+      "size_bytes": 103319,
+      "updated_at": "2026-04-11T02:48:36.301574+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_nº_286_2012___altera_arts._48_e_49_da_resol._107.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_n%c2%ba_286_2012___altera_arts._48_e_49_da_resol._107.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/resolucao_coeg_no_286_2012___altera_arts._48_e_49_da_resol._107.pdf",
+      "sha256": "0ced1160c69fcc44733fbe43c8589dd337a21642b4fa617ab9b0a41b306aa835",
+      "size_bytes": 276861,
+      "updated_at": "2026-04-11T02:48:37.413782+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_nº_307_2011___ch_do_professor-1.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_n%c2%ba_307_2011___ch_do_professor-1.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/resolucao_coeg_no_307_2011___ch_do_professor-1.pdf",
+      "sha256": "7ecde22bb87225fdf09b17bd96d86cd63172d553ee2234683050ebabf6cfdb9e",
+      "size_bytes": 92895,
+      "updated_at": "2026-04-11T02:48:38.438002+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/res107-2010_coeg-Regulamento-de-Estágio.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/res107-2010_coeg-Regulamento-de-Est%c3%a1gio.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/res107-2010_coeg-Regulamento-de-Estagio.pdf",
+      "sha256": "06be5091d4624952a00e581e928f83597d0abb6fb427ff13f447edbb4c33e3d3",
+      "size_bytes": 340429,
+      "updated_at": "2026-04-11T02:48:39.864225+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_nº_152_2010___altera_arts._43_e_44_da_resol._107.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_n%c2%ba_152_2010___altera_arts._43_e_44_da_resol._107.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/resolucao_coeg_no_152_2010___altera_arts._43_e_44_da_resol._107.pdf",
+      "sha256": "cee0e2d2d57cfc1fac6f6e5a21506a22ecfb8555c6db7465ce955d3d337f1744",
+      "size_bytes": 33838,
+      "updated_at": "2026-04-11T02:48:40.732932+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_nº_115_2010-1.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/11/resolucao_coeg_n%c2%ba_115_2010-1.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/resolucao_coeg_no_115_2010-1.pdf",
+      "sha256": "1d4edd80aaa8c1bdb4e6ccbd8b9d7f606af300b1444a5b74ad066d9a514a98a1",
+      "size_bytes": 31230,
+      "updated_at": "2026-04-11T02:48:41.607650+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/02/Resolucao_Coeg_248_2005.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/02/Resolucao_Coeg_248_2005.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-estagio/",
+      "local_path": "assets/legislacao-estagio/Resolucao_Coeg_248_2005.pdf",
+      "sha256": "d17727bb971c957d33ed3110aafedc81336d20e67662c65a0302f2cc4b7a8461",
+      "size_bytes": 353171,
+      "updated_at": "2026-04-11T02:48:42.755353+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://inisa.ufms.br/files/2022/02/RESOLUCAO-COGRAD-n-430-de-16-12-2021-Aprova-o-Regulamento-dos-Cursos-de-Graduacao-da-UFMS.pdf",
+      "resolved_url": "https://inisa.ufms.br/files/2022/02/RESOLUCAO-COGRAD-n-430-de-16-12-2021-Aprova-o-Regulamento-dos-Cursos-de-Graduacao-da-UFMS.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/regulamentos-de-ccnd-da-graduacao/",
+      "local_path": "assets/regulamentos-de-ccnd-da-graduacao/RESOLUCAO-COGRAD-n-430-de-16-12-2021-Aprova-o-Regulamento-dos-Cursos-de-Graduacao-da-UFMS.pdf",
+      "sha256": "bc7cf63b5e9dab18c8ea42429bf894e9713ffdde95741aae5b6895e017f91cc9",
+      "size_bytes": 933834,
+      "updated_at": "2026-04-11T02:48:43.686437+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://download.inep.gov.br/educacao_superior/enade/legislacao/2007/portaria_n40_12122007.pdf",
+      "resolved_url": "http://download.inep.gov.br/educacao_superior/enade/legislacao/2007/portaria_n40_12122007.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-avaliacao/",
+      "local_path": "assets/legislacao-avaliacao/portaria_n40_12122007.pdf",
+      "sha256": "cc793a7d859feeb467639de86c7b0f6d227d3da858d1397c24f36a9f5b304c14",
+      "size_bytes": 127938,
+      "updated_at": "2026-04-11T02:48:44.514167+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/curso_autorizacao.pdf",
+      "resolved_url": "http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/curso_autorizacao.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-avaliacao/",
+      "local_path": "assets/legislacao-avaliacao/curso_autorizacao.pdf",
+      "sha256": "8831641b60c0ccc6d9753f751f281b8ba2d0dd380c00a4183fb64e5bb8e6292f",
+      "size_bytes": 1829116,
+      "updated_at": "2026-04-11T02:48:46.461233+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/curso_reconhecimento.pdf",
+      "resolved_url": "http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/curso_reconhecimento.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-avaliacao/",
+      "local_path": "assets/legislacao-avaliacao/curso_reconhecimento.pdf",
+      "sha256": "bbac97390a8f7a878fda6b50e92aa41e3f19d2cb3657fe05009050980aa77768",
+      "size_bytes": 908787,
+      "updated_at": "2026-04-11T02:48:48.647113+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://download.inep.gov.br/educacao_superior/avaliacao_institucional/instrumentos/2017/IES_credenciamento.pdf",
+      "resolved_url": "http://download.inep.gov.br/educacao_superior/avaliacao_institucional/instrumentos/2017/IES_credenciamento.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-avaliacao/",
+      "local_path": "assets/legislacao-avaliacao/IES_credenciamento.pdf",
+      "sha256": "4d706634b893400dd0cec6ae447fe8982de30432d27bac6ba3eac2c5f3da7d6b",
+      "size_bytes": 1325486,
+      "updated_at": "2026-04-11T02:48:50.257017+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://download.inep.gov.br/educacao_superior/avaliacao_institucional/instrumentos/2017/IES_recredenciamento.pdf",
+      "resolved_url": "http://download.inep.gov.br/educacao_superior/avaliacao_institucional/instrumentos/2017/IES_recredenciamento.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-avaliacao/",
+      "local_path": "assets/legislacao-avaliacao/IES_recredenciamento.pdf",
+      "sha256": "1555cc4c31e8022fb1e998e31aa2b69c4500166587c32b8dd54339992d669654",
+      "size_bytes": 855223,
+      "updated_at": "2026-04-11T02:48:52.123152+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/portaria_normativa_n40_12_dezembro_2007-republicada-em-2010-9-e-mec.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/portaria_normativa_n40_12_dezembro_2007-republicada-em-2010-9-e-mec.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-educacional-nacional/",
+      "local_path": "assets/legislacao-educacional-nacional/portaria_normativa_n40_12_dezembro_2007-republicada-em-2010-9-e-mec.pdf",
+      "sha256": "59357298b3cc2745f85f5f29bbd69812eb65eaf20bfcf4a1373ecaca28c03812",
+      "size_bytes": 261633,
+      "updated_at": "2026-04-11T02:48:53.263881+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/02/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/02/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-educacional-nacional/",
+      "local_path": "assets/legislacao-educacional-nacional/21_03_11_nucleo_docente_estruturante_resolucao_conaes_1__17_junho_2010.pdf",
+      "sha256": "adfc4c7955b8eca6fc288d2eb5980309765e0c449db307201bbf93298b80338c",
+      "size_bytes": 14302,
+      "updated_at": "2026-04-11T02:48:54.081208+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2016/01/Resolução-CNE-CP-02-2015-Diretrizes-para-formação-de-professores.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2016/01/Resolu%c3%a7%c3%a3o-CNE-CP-02-2015-Diretrizes-para-forma%c3%a7%c3%a3o-de-professores.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-educacional-nacional/",
+      "local_path": "assets/legislacao-educacional-nacional/Resolucao-CNE-CP-02-2015-Diretrizes-para-formacao-de-professores.pdf",
+      "sha256": "6d77194904db282f4ab144afd5303232cf6e2f197f6ac56ccf01fa1b6c8d1832",
+      "size_bytes": 224037,
+      "updated_at": "2026-04-11T02:48:56.066476+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/Portaria-1.087-10.08.2011-Institui-Comite-Gestor-Nacional.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/Portaria-1.087-10.08.2011-Institui-Comite-Gestor-Nacional.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-formacao-de-professores/",
+      "local_path": "assets/legislacao-formacao-de-professores/Portaria-1.087-10.08.2011-Institui-Comite-Gestor-Nacional.pdf",
+      "sha256": "347ec8a4c1913545989cb2ef7e46e305264b8d5e87be844eb2cb4e4dd4c4c6fb",
+      "size_bytes": 127361,
+      "updated_at": "2026-04-11T02:48:57.715965+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/resolucao_1_17-_agosto_2011.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/resolucao_1_17-_agosto_2011.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-formacao-de-professores/",
+      "local_path": "assets/legislacao-formacao-de-professores/resolucao_1_17-_agosto_2011.pdf",
+      "sha256": "f4cb55f3ee08b9d86f7b61d21495874e2dad11609e9f824481960c94d336d46a",
+      "size_bytes": 14670,
+      "updated_at": "2026-04-11T02:48:58.843480+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/portaria-1-328-23-09-2011-rede-nacional-de-formacao-RENAFOR.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/portaria-1-328-23-09-2011-rede-nacional-de-formacao-RENAFOR.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-formacao-de-professores/",
+      "local_path": "assets/legislacao-formacao-de-professores/portaria-1-328-23-09-2011-rede-nacional-de-formacao-RENAFOR.pdf",
+      "sha256": "381a351053cd0e6de39f1c6574b2a8e3d1990643db10d82843a62aa067bab748",
+      "size_bytes": 14333,
+      "updated_at": "2026-04-11T02:48:59.930838+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/Resolucao_79_2012_Coeg.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/Resolucao_79_2012_Coeg.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-formacao-de-professores/",
+      "local_path": "assets/legislacao-formacao-de-professores/Resolucao_79_2012_Coeg.pdf",
+      "sha256": "eb12b9d4e19da80c62af8b7cb3e277274adafca8e984dd33c77350de223402f9",
+      "size_bytes": 132923,
+      "updated_at": "2026-04-11T02:49:16.329108+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2023/04/Folder-Institucional-Ingles_cv.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2023/04/Folder-Institucional-Ingles_cv.pdf",
+      "source_page": "https://prograd.ufms.br/a-prograd/digac/programa-de-estudantes-convenio-de-graduacao-pec-g/",
+      "local_path": "assets/programas/programa-de-estudantes-convenio-de-graduacao-pec-g/Folder-Institucional-Ingles_cv.pdf",
+      "sha256": "f77fdd204f10b6e54fce0118eccaacbb28b670d514ea162210a6d751b87c2e67",
+      "size_bytes": 2912328,
+      "updated_at": "2026-04-11T02:49:17.528995+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/12/Regulamento-Geral-Cursos-de-Graduação-Res.-269.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/12/Regulamento-Geral-Cursos-de-Gradua%c3%a7%c3%a3o-Res.-269.pdf",
+      "source_page": "https://prograd.ufms.br/a-prograd/digac/programa-de-estudantes-convenio-de-graduacao-pec-g/",
+      "local_path": "assets/programas/programa-de-estudantes-convenio-de-graduacao-pec-g/Regulamento-Geral-Cursos-de-Graduacao-Res.-269.pdf",
+      "sha256": "a6ba4253483ec7e81799099c931990ac875681ecba48ac6726c44337488227df",
+      "size_bytes": 674525,
+      "updated_at": "2026-04-11T02:49:18.776502+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/12/Altera-269-2013-para-os-casos-de-exclusao-de-PEC-G-Res.-455-2015.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/12/Altera-269-2013-para-os-casos-de-exclusao-de-PEC-G-Res.-455-2015.pdf",
+      "source_page": "https://prograd.ufms.br/a-prograd/digac/programa-de-estudantes-convenio-de-graduacao-pec-g/",
+      "local_path": "assets/programas/programa-de-estudantes-convenio-de-graduacao-pec-g/Altera-269-2013-para-os-casos-de-exclusao-de-PEC-G-Res.-455-2015.pdf",
+      "sha256": "6ee25c1b51b494b3c1f79454b3fa8e7f2182da02227648d8d574df1ed5f0ab0f",
+      "size_bytes": 485996,
+      "updated_at": "2026-04-11T02:49:19.949625+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/12/Exclusao-de-alunos-PEC-G-Res.-456-2015.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/12/Exclusao-de-alunos-PEC-G-Res.-456-2015.pdf",
+      "source_page": "https://prograd.ufms.br/a-prograd/digac/programa-de-estudantes-convenio-de-graduacao-pec-g/",
+      "local_path": "assets/programas/programa-de-estudantes-convenio-de-graduacao-pec-g/Exclusao-de-alunos-PEC-G-Res.-456-2015.pdf",
+      "sha256": "60f986607cc3c800dd04933eb6a349a549974fa867d1a76ae6b522721704d204",
+      "size_bytes": 488581,
+      "updated_at": "2026-04-11T02:49:21.115009+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/12/Matricula-2016-1-PEC-G-Res-Coeg-n-549-de-27-11-2015.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/12/Matricula-2016-1-PEC-G-Res-Coeg-n-549-de-27-11-2015.pdf",
+      "source_page": "https://prograd.ufms.br/a-prograd/digac/programa-de-estudantes-convenio-de-graduacao-pec-g/",
+      "local_path": "assets/programas/programa-de-estudantes-convenio-de-graduacao-pec-g/Matricula-2016-1-PEC-G-Res-Coeg-n-549-de-27-11-2015.pdf",
+      "sha256": "9ba2c5cfdde54ebfdf83950212ab6f5fef7a22216c159223a117f51b7a9b99a2",
+      "size_bytes": 482696,
+      "updated_at": "2026-04-11T02:49:22.381592+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/Portaria-Normativa-19-6-11-2014-Sisu-Cotas-de-vagas.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/Portaria-Normativa-19-6-11-2014-Sisu-Cotas-de-vagas.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-ingresso/",
+      "local_path": "assets/legislacao-ingresso/Portaria-Normativa-19-6-11-2014-Sisu-Cotas-de-vagas.pdf",
+      "sha256": "76c122aa56c510740e76fbf87b684675dca2df33b37ad514df56256fcd724d29",
+      "size_bytes": 66879,
+      "updated_at": "2026-04-11T02:49:23.272394+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/Portaria-Normativa-21-5-11-2012-Sisu.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/Portaria-Normativa-21-5-11-2012-Sisu.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-ingresso/",
+      "local_path": "assets/legislacao-ingresso/Portaria-Normativa-21-5-11-2012-Sisu.pdf",
+      "sha256": "ba8b451fd5de772c37fbd54c4b1c157020dc13a52a11e66d68ec90fc11949081",
+      "size_bytes": 65943,
+      "updated_at": "2026-04-11T02:49:24.093313+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2014/12/programa_andifes_mobilidade_academica_2011.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2014/12/programa_andifes_mobilidade_academica_2011.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-ingresso/",
+      "local_path": "assets/legislacao-ingresso/programa_andifes_mobilidade_academica_2011.pdf",
+      "sha256": "4766ab451eed200aaee51234c77ce8652793898b79b89f173b1c596afe29a67e",
+      "size_bytes": 835305,
+      "updated_at": "2026-04-11T02:49:25.348764+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2021/04/INSTRUCAO-NORMATIVA-n-32-de-26-02-2021.-solicitação-prof-substituto.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2021/04/INSTRUCAO-NORMATIVA-n-32-de-26-02-2021.-solicita%C3%A7%C3%A3o-prof-substituto.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "local_path": "assets/legislacao-professor-substituto/INSTRUCAO-NORMATIVA-n-32-de-26-02-2021.-solicitacao-prof-substituto.pdf",
+      "sha256": "a9b7dd1367874708ea923f3f8d88ca2b9984acbe9d8c6ff9e5533f064719a1c6",
+      "size_bytes": 395501,
+      "updated_at": "2026-04-11T02:49:26.032018+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2023/08/RESOLUCAO-No-389-CD-UFMS-DE-5-DE-MAIO-DE-2023-Professor-Substituto.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2023/08/RESOLUCAO-No-389-CD-UFMS-DE-5-DE-MAIO-DE-2023-Professor-Substituto.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "local_path": "assets/legislacao-professor-substituto/RESOLUCAO-No-389-CD-UFMS-DE-5-DE-MAIO-DE-2023-Professor-Substituto.pdf",
+      "sha256": "2dd03e720a45e522401ff37f09714d547660a074c9c2303fe0983465b03b55ca",
+      "size_bytes": 349481,
+      "updated_at": "2026-04-11T02:49:26.612530+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2022/05/PROF-VOLUNTARIO-NOVA-RESOLUCAO-n-253.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2022/05/PROF-VOLUNTARIO-NOVA-RESOLUCAO-n-253.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "local_path": "assets/legislacao-professor-substituto/PROF-VOLUNTARIO-NOVA-RESOLUCAO-n-253.pdf",
+      "sha256": "b439102aa4e65cbe6bdbd9dd645af51c1214cbf154818b2fb171a36875347045",
+      "size_bytes": 534835,
+      "updated_at": "2026-04-11T02:49:27.321679+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Normas-Prof.-Substituto-Resolução-COEG-nº-96-2011-Retificação.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/03/Normas-Prof.-Substituto-Resolu%c3%a7%c3%a3o-COEG-n%c2%ba-96-2011-Retifica%c3%a7%c3%a3o.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "local_path": "assets/legislacao-professor-substituto/Normas-Prof.-Substituto-Resolucao-COEG-no-96-2011-Retificacao.pdf",
+      "sha256": "fc2a1ae1a42a5971a9ad29d5bf71175717dc4840d03e115003d2de5fcd942b3c",
+      "size_bytes": 91870,
+      "updated_at": "2026-04-11T02:49:28.227181+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Normas-Prof.-Substituto-Resolução-COEG-nº-21-2011.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/03/Normas-Prof.-Substituto-Resolu%c3%a7%c3%a3o-COEG-n%c2%ba-21-2011.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "local_path": "assets/legislacao-professor-substituto/Normas-Prof.-Substituto-Resolucao-COEG-no-21-2011.pdf",
+      "sha256": "5171f3cbb90f9da5e94dd784606ebe3857af57354fb1ef7370720f3348c5a081",
+      "size_bytes": 477154,
+      "updated_at": "2026-04-11T02:49:29.309625+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2019/09/Portaria_n_976-republicada.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2019/09/Portaria_n_976-republicada.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-programa-de-educacao-tutorial/",
+      "local_path": "assets/programas/Portaria_n_976-republicada.pdf",
+      "sha256": "103af74110c47c7e631c80639d1baee5b611a91dcd866e5e2c27c4850f866a5c",
+      "size_bytes": 102542,
+      "updated_at": "2026-04-11T02:49:34.790361+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2019/09/Manual-orientações-básicas-PET-MOB.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2019/09/Manual-orienta%C3%A7%C3%B5es-b%C3%A1sicas-PET-MOB.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-programa-de-educacao-tutorial/",
+      "local_path": "assets/programas/Manual-orientacoes-basicas-PET-MOB.pdf",
+      "sha256": "5e08bd7bab0df1bd6c95e6ebaeb206b42e8a5ff9ad7d32212a23277782582228",
+      "size_bytes": 97627,
+      "updated_at": "2026-04-11T02:49:35.440253+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2021/08/IN_53-Normas-Programa-Educacao-Tutorial-PET.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2021/08/IN_53-Normas-Programa-Educacao-Tutorial-PET.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/programa-de-educacao-tutorial-pet/",
+      "local_path": "assets/programas/IN_53-Normas-Programa-Educacao-Tutorial-PET.pdf",
+      "sha256": "4cb1eae6495fa2c2d1eaa6e822406bc666e45da605ca173af46eb00d61136ac9",
+      "size_bytes": 420050,
+      "updated_at": "2026-04-11T02:49:36.289911+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://boletimoficial.ufms.br/bse/publicacao?id=565635",
+      "resolved_url": "https://boletimoficial.ufms.br/bse/publicacao?id=565635",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/programa-de-educacao-tutorial-pet/",
+      "local_path": "assets/programas/BOLETIMOFICIAL-id-565635.pdf",
+      "sha256": "9b932ca990c2b4ac262ddf2ab28a381e42dd36d4fab21e52e7a36235cc95cc40",
+      "size_bytes": 228248,
+      "updated_at": "2026-04-11T02:49:36.982796+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2023/10/Tutorial-Termo-de-Compromisso-Estudantes-PET.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2023/10/Tutorial-Termo-de-Compromisso-Estudantes-PET.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/programa-de-educacao-tutorial-pet/",
+      "local_path": "assets/programas/Tutorial-Termo-de-Compromisso-Estudantes-PET.pdf",
+      "sha256": "097e7891d30c0aa1bd56a6e2201698829ac9b08691b96977a69d06fbdb96af33",
+      "size_bytes": 4297171,
+      "updated_at": "2026-04-11T02:49:38.697823+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2023/10/Tutorial-SICERT-Programa-de-Educacao-Tutorial-Versao-2.0-Atualizadissimo.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2023/10/Tutorial-SICERT-Programa-de-Educacao-Tutorial-Versao-2.0-Atualizadissimo.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/programa-de-educacao-tutorial-pet/",
+      "local_path": "assets/programas/Tutorial-SICERT-Programa-de-Educacao-Tutorial-Versao-2.0-Atualizadissimo.pdf",
+      "sha256": "d2c070ed2cc530bf77fee37ad84a37ef9d2d9434051bf13494162db36f5b0955",
+      "size_bytes": 12882882,
+      "updated_at": "2026-04-11T02:49:42.696970+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2014/11/Orientações-Termo-de-Compromisso-de-Aluno-PET-no-SEI.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2014/11/Orienta%C3%A7%C3%B5es-Termo-de-Compromisso-de-Aluno-PET-no-SEI.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/programa-de-educacao-tutorial-pet/",
+      "local_path": "assets/programas/Orientacoes-Termo-de-Compromisso-de-Aluno-PET-no-SEI.pdf",
+      "sha256": "dd8fe1dd7d0681eff8fcfebe8e279d6e821b2631b43b90e9ea0f2cbfa2929cc6",
+      "size_bytes": 839981,
+      "updated_at": "2026-04-11T02:49:43.698408+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/11/RESOLUÇÃO-342-Normas-de-monitoria.pdf",
+      "resolved_url": "https://preg.bellatrix.ufms.br/files/2015/11/RESOLU%c3%87%c3%83O-342-Normas-de-monitoria.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-monitoria/",
+      "local_path": "assets/programas/RESOLUCAO-342-Normas-de-monitoria.pdf",
+      "sha256": "dce889b80f215262d123c2211ebe0d040cde7fcfbd77f87c65d0ed866964587a",
+      "size_bytes": 345065,
+      "updated_at": "2026-04-11T02:49:45.076656+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2023/05/Tutorial-SICERT-Projeto-de-Ensino-de-Graduacao.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2023/05/Tutorial-SICERT-Projeto-de-Ensino-de-Graduacao.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/projeto-de-ensino-de-graduacao/",
+      "local_path": "assets/programas/Tutorial-SICERT-Projeto-de-Ensino-de-Graduacao.pdf",
+      "sha256": "52c04500a0eb7e16ae43e3aa0f49b8d53d2e189cdc84f39645dbeca5401f6d7a",
+      "size_bytes": 11562654,
+      "updated_at": "2026-04-11T02:49:48.348937+00:00",
+      "status": "new"
+    },
+    {
+      "source_url": "https://prograd.ufms.br/files/2021/03/Tutorial_para_certificado_de_PEG_pelo_Sicert-1.pdf",
+      "resolved_url": "https://prograd.ufms.br/files/2021/03/Tutorial_para_certificado_de_PEG_pelo_Sicert-1.pdf",
+      "source_page": "https://prograd.ufms.br/programas-e-projetos/projeto-de-ensino-de-graduacao/",
+      "local_path": "assets/programas/Tutorial_para_certificado_de_PEG_pelo_Sicert-1.pdf",
+      "sha256": "88b8899f675c83d80fbe8c78e7d62e0f3909cf86dec368a56172d2d3493271c6",
+      "size_bytes": 203417,
+      "updated_at": "2026-04-11T02:49:48.847330+00:00",
+      "status": "new"
+    }
+  ],
+  "unchanged": [],
+  "changed_pending": [],
+  "failures": [
+    {
+      "source_url": "https://prograd.ufms.br/files/2024/09/IN-84_merged_unsigned-1.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/normas/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_url": "http://portal.mec.gov.br/cne/arquivos/pdf/003.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-educacional-nacional/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_url": "http://portal.mec.gov.br/cne/arquivos/pdf/2004/pces329_04.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-educacional-nacional/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Portaria-RTR-nº-69-2005.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Resolução-Coepe-nº-198-1999.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Portaria-RTR-nº-488-1998.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Portaria-RTR-214-nº-214-1998.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source_url": "http://preg.bellatrix.ufms.br/files/2015/03/Resolução-CD-nº-10-1998.pdf",
+      "source_page": "https://prograd.ufms.br/legislacao/legislacao-professor-substituto/",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}
